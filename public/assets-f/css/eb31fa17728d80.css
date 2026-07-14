@@ -1,0 +1,139 @@
+.side-nav {
+  border-bottom: 1px solid #e7e7e7;
+  font-family: Open Sans;
+  font-size: 14px;
+  margin-bottom: 1.5rem;
+}
+
+.side-nav .menu-item {
+  position: relative;
+}
+
+.side-nav .menu {
+  padding-left: 0;
+  margin: 0;
+}
+
+.side-nav .menu > .menu-item > a {
+  text-transform: uppercase;
+  display: block;
+  padding: 16px 12px;
+  color: #001641;
+  background: #f9f9f9;
+  font-weight: bold;
+  padding-right: 47px;
+  text-overflow:clip;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.side-nav .menu .menu-item > a:hover {
+  border-bottom: none;
+  color: #98101a;
+}
+
+.side-nav .menu > .menu-item:not(:last-child) > a {
+  border-bottom: 1px solid #e7e7e7;
+}
+
+.side-nav .menu .menu-item:last-child > a {
+  border-bottom: none;
+}
+
+.side-nav .menu-item-has-children .arrow {
+  /*background-color: #fff;*/
+  border-left: 1px solid #dedede;
+  cursor: pointer;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding: 24px;
+  padding: 15px;
+  z-index: 2;
+  font-size: 16px;
+  border-left: 1px solid #dedede;
+  transition: all 0.3s;
+  line-height: 1.25;
+}
+
+.side-nav .menu-item-has-children .arrow:hover {
+  background: #98101a;
+  color: #fff;
+}
+
+.side-nav .sub-menu .menu-item-has-children > a {
+  background: #f9f9f9;
+  font-weight: bold;
+}
+
+.side-nav .menu-item a {
+  line-height: 1.25;
+}
+
+.side-nav .sub-menu .menu-item-has-children .arrow {
+  padding: 13px 16px;
+  font-size: 14px;
+  line-height: 1.25;
+}
+
+.side-nav .menu-item .arrow svg {
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+  transition: transform 0.3s;
+}
+
+.side-nav .menu-item.opened > .arrow svg {
+  transform: rotate(-180deg);
+}
+
+.side-nav .menu .menu-item {
+  list-style: none;
+  left: 0;
+  padding-right: 0;
+}
+
+.side-nav .sub-menu .menu-item > a {
+  display: block;
+  padding: 14px 12px;
+  color: #6d6e71;
+  background: #fff;
+  position: relative;
+  font-weight: normal;
+}
+
+.side-nav .menu .current-menu-item > a,
+.side-nav .menu .current-menu-parent > a {
+  color: #98101a;
+}
+
+.side-nav .sub-menu .menu-item > a {
+  border-top: 1px solid #e7e7e7;
+}
+
+.side-nav .sub-menu {
+  display: none;
+  margin-bottom: 0;
+  padding: 0;
+  margin: 0;
+}
+
+.elementor-element .elementor-column-gap-default>.elementor-row>.elementor-column>.elementor-element-populated {
+  padding-top: 0;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.elementor-element .elementor-row {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+
+.elementor-left-sidebar .elementor-column.elementor-col-33 {
+  width: 25%;
+}
+
+.elementor-left-sidebar .elementor-column.elementor-col-66 {
+  width: 75%;
+}

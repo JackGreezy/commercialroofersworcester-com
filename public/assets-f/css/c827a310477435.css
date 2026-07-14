@@ -1,0 +1,56 @@
+@font-face {
+	font-family: lato-black;
+	src: url(/assets-f/fonts/0770c999014c0b.eot);
+	src:  url("/assets-f/fonts/d7b31107f7e799.woff2") format("woff2"), url(/assets-f/fonts/cecfd782978cce.woff) format("woff"), url(/assets-f/fonts/59d38934079dda.ttf) format("truetype"), ;
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: lato-bold;
+	src: url(/assets-f/fonts/b307f67a9a8a92.eot);
+	src:  url(/assets-f/fonts/c95faf4010d09b.woff2) format("woff2"), url(/assets-f/fonts/6d82dcf9b8a001.woff) format("woff"), url(/assets-f/fonts/16bc61e296555e.ttf) format("truetype"), ;
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: lato-italic;
+	src: url(/assets-f/fonts/9ed22ebc550a16.eot);
+	src:  url("/assets-f/fonts/2520c039106632.woff2") format("woff2"), url(/assets-f/fonts/247363f2155f34.woff) format("woff"), url(/assets-f/fonts/943d3ad56468bc.ttf) format("truetype"), ;
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: lato-light;
+	src: url(/assets-f/fonts/d68d68890f0cb6.eot);
+	src:  url(/assets-f/fonts/dfaf7e464197c7.woff2) format("woff2"), url(/assets-f/fonts/9ccf378255a47b.woff) format("woff"), url(/assets-f/fonts/362b892779cf83.ttf) format("truetype"), ;
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: lato-regular;
+	src: url(/assets-f/fonts/ed3adfdbb07a47.eot);
+	src:  url("/assets-f/fonts/9dde5ab0b32d7e.woff2") format("woff2"), url(/assets-f/fonts/8ba0325db68bf8.woff) format("woff"), url(/assets-f/fonts/2bc1f823039155.ttf) format("truetype"), ;
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: lato-semibold;
+	src: url(/assets-f/fonts/6a60debfcbbbc9.eot);
+	src:  url(/assets-f/fonts/bd503313412ca0.woff2) format("woff2"), url(/assets-f/fonts/121900bddfb251.woff) format("woff"), url(/assets-f/fonts/64beeb03e6d3e3.ttf) format("truetype"), ;
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: oswald-light;
+	src: url(/assets-f/fonts/fec679f886f551.eot);
+	src:  url("/assets-f/fonts/f81ce92a3e471f.woff2") format("woff2"), url(/assets-f/fonts/1441409a9d9655.woff) format("woff"), url(/assets-f/fonts/12e39c88a63ee7.ttf) format("truetype"), ;
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: museo_slab;
+	src: url(/assets-f/fonts/94d2550bbc9399.eot);
+	src:  url("/assets-f/fonts/5ff42ebe59a0d5.woff2") format("woff2"), url(/assets-f/fonts/466aa5bf0b57b1.woff) format("woff"), ;
+	font-weight: 400;
+	font-style: normal;
+}

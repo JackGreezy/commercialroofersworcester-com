@@ -1,0 +1,24 @@
+{
+  "clone_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/commercial-roofing/commercialroofersworcester-com",
+  "businessName": "Commercial Roofers of Worcester",
+  "city": "Worcester",
+  "region": "Worcester County, Central Massachusetts, and the surrounding Route 9, Route 20, and I-290 corridors",
+  "phone": "555-555-6139",
+  "email": "projects@commercialroofersworcester.com",
+  "address": "100 Front St, Suite 1500, Worcester, MA 01608",
+  "domain": "commercialroofersworcester.com",
+  "wordmark_l1": "Commercial Roofers",
+  "wordmark_l2": "of Worcester",
+  "hero_image": "/images/locations/commercial-roofers-worcester-ma-01.webp",
+  "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/David/clones/scripts/voice/commercial-roofing.json",
+  "nav": [
+    ["Services", "/services"],
+    ["Roof Systems", "/roof-systems"],
+    ["Industries", "/industries"],
+    ["Project Types", "/project-types"],
+    ["Service Areas", "/locations"],
+    ["Manufacturers", "/manufacturers"],
+    ["Contact", "/contact"]
+  ],
+  "cta": ["Request a Roof Assessment", "/contact"]
+}

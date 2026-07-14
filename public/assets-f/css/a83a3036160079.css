@@ -1,0 +1,134 @@
+/* Prevailing Wages Plugin Styles */
+
+/* Frontend Styles */
+.pw-project-documents {
+  max-width: 800px;
+  margin: 2em auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.pw-project-documents h1 {
+  color: #333;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+.pw-document-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.pw-document-list li {
+  margin-bottom: 10px;
+}
+
+.pw-document-list a {
+  display: inline-block;
+  padding: 10px 15px;
+  background-color: #0073aa;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 3px;
+  transition: background-color 0.3s ease;
+}
+
+.pw-document-list a:hover {
+  background-color: #005177;
+}
+
+.pw-pdf-download {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.pw-btn.pw-btn-primary {
+  background-color: #002856; /* Miron primary color */
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.pw-btn.pw-btn-primary:hover {
+  background-color: #004080; /* Miron hover color */
+  text-decoration: none;
+  color: #fff;
+}
+
+.pw-pdf-download .fa-file-pdf-o {
+  margin-right: 10px;
+}
+
+/* Backend Styles */
+.pw-meta-box {
+  background: #fff;
+  padding: 15px;
+  border: 1px solid #e5e5e5;
+}
+
+.pw-meta-box label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.pw-meta-box input[type="text"] {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.pw-file-upload {
+  margin-top: 15px;
+  padding: 15px;
+  background: #f9f9f9;
+  border: 1px solid #e5e5e5;
+}
+
+.pw-file-upload h3 {
+  margin-top: 0;
+}
+
+.pw-file-list {
+  margin-top: 15px;
+}
+
+.pw-file-list .pw-file-item {
+  background: #fff;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #e5e5e5;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.pw-file-list .pw-file-name {
+  font-weight: bold;
+}
+
+.pw-file-list .pw-file-actions a {
+  margin-left: 10px;
+  color: #0073aa;
+  text-decoration: none;
+}
+
+.pw-file-list .pw-file-actions a:hover {
+  color: #005177;
+}
+
+/* QR Code Display */
+.pw-qr-code {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.pw-qr-code img {
+  max-width: 200px;
+  height: auto;
+}

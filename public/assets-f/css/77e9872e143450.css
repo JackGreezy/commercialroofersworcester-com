@@ -1,0 +1,399 @@
+/*
+Theme Name:     Miron Construction
+Theme URI:      https://miron-construction.com;
+Description:    Custom WordPress Theme for Miron Construction
+Version:        4.0
+Author:         B2 Web Studios
+Author URI:     https://b2webstudios.com
+
+This file only exists to declare this theme to Wordpress.
+*/
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+.clearfix {
+  display: inline-block;
+}
+/* start commented backslash hack \*/
+* html .clearfix {
+  height: 1%;
+}
+.clearfix {
+  display: block;
+}
+/* close commented backslash hack */
+
+sup {
+  font-size: 65%;
+}
+body {
+  padding-top: 95px;
+}
+
+body.home {
+  padding-top: 0;
+}
+
+.top-bar {
+  background: #fff;
+  padding-right: 24px;
+}
+
+.top-bar a {
+  color: #6d6e71;
+  text-transform: uppercase;
+}
+
+.top-bar .container {
+  float: none;
+}
+
+.top-bar .menu a {
+  display: block;
+  padding: 6px 10px;
+}
+
+.top-bar .menu-top-navigation-container {
+  float: right;
+}
+.top-bar .menu-top-navigation-container li {
+  float: left;
+}
+.top-bar .menu-top-navigation-container li a {
+  font-size: 11px;
+  letter-spacing: 1px;
+  line-height: 1.5;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.top-bar .menu-top-navigation-container li a:focus,
+.top-bar .menu-top-navigation-container li a:hover {
+  color: #9e2432;
+}
+.top-bar .sm-container {
+  float: right;
+}
+
+.footer-social {
+  margin-bottom: 1rem;
+}
+
+.footer-content a {
+  color: #fff;
+}
+
+.footer-content a:hover {
+  color: #9a2432;
+  text-decoration: none;
+}
+
+.top-bar .sm-container a,
+.footer-social a {
+  font-size: 14px;
+  color: #6d6e71;
+  padding: 8px 6px;
+  margin-left: 1px;
+}
+
+.footer-social a {
+  color: #fff;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.top-bar .icon,
+.footer-social .icon {
+  display: block;
+  line-height: 1;
+  text-align: center;
+  width: 1em;
+}
+
+.top-bar .sm-container .facebook-icon:hover,
+.footer-social .facebook-icon:hover {
+  color: #4464a2;
+}
+
+.top-bar .sm-container .twitter-icon:hover,
+.footer-social .twitter-icon:hover {
+  color: #1da1f2;
+}
+
+.top-bar .sm-container .linkedin-icon:hover,
+.footer-social .linkedin-icon:hover {
+  color: #0077b5;
+}
+
+.top-bar .sm-container .youtube-icon:hover,
+.footer-social .youtube-icon:hover {
+  color: #db4437;
+}
+
+.top-bar .sm-container .instagram-icon:hover,
+.footer-social .instagram-icon:hover {
+  color: #d62976;
+}
+
+.market-icon {
+  margin-bottom: 50px;
+}
+
+.market-icon svg {
+  height: 66px;
+  width: auto;
+}
+
+.sub-cats li {
+  font-size: 24px;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+  font-weight: 600;
+}
+
+.sub-cats a {
+  color: #001549;
+}
+
+.sub-cats a:hover {
+  color: #a73439;
+}
+
+.primary-content p {
+  line-height: 1.5;
+}
+
+
+@media only screen and (max-width: 768px) {
+  .top-bar {
+    display: none;
+  }
+
+  .main-menu-wrap {
+    padding: 0;
+  }
+}
+
+.cat_page_content {
+  color: #6d6e71;
+  line-height: 1.5;
+}
+
+.project-content .loader {
+  display: none;
+}
+
+.project-content.loading .show-more {
+  display: none;
+}
+
+.card {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+}
+
+.card-header:first-child {
+  border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0;
+}
+.card-header {
+  padding: 0.75rem 1.25rem;
+  margin-bottom: 0;
+  background-color: rgba(0, 0, 0, 0.03);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+.card-body {
+  -webkit-box-flex: 1;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  padding: 1.25rem;
+}
+
+.card-body .blockquote {
+  line-height: 1.5;
+}
+
+.blockquote-footer {
+  display: block;
+  font-size: 80%;
+  color: #6c757d;
+}
+
+.blockquote-footer::before {
+  content: "\2014 \00A0";
+}
+
+.sidebar .market-icon {
+  padding: 0.4rem 0 0 0.625rem;
+}
+
+.cat_page_content {
+  padding-bottom: 76px;
+}
+
+.testimonial-quote {
+  background: #e6e6e6;
+  padding: 20px 30px;
+  position: relative;
+}
+
+.testimonial-quote:before {
+  background: none no-repeat;
+  background-size: contain;
+  content: "";
+  font-size: 30px;
+  height: 1em;
+  position: absolute;
+  top: -10px;
+  left: 1rem;
+  width: 1em;
+}
+
+.testimonial-quote .blockquote-footer {
+  color: #333333;
+  line-height: 1.5;
+  text-align: right;
+}
+
+.copyright,
+.copyright a {
+  color: #585a61;
+}
+
+.copyright a {
+  padding: 0 5px;
+}
+
+.copyright a:hover {
+  color: #9e2432;
+}
+
+.bottom-nav .menu-item {
+  display: inline-block;
+  padding: 0 10px;
+}
+
+.bottom-nav .menu-item a {
+  padding: 0;
+}
+
+.bottom-nav .menu-item a:hover {
+  color: #9e2432;
+}
+
+
+/* Job Manager */
+
+
+.single-job_listing .post-meta, .single-job_listing .job-listing-meta, .single-job_listing .company {
+    display: none;
+}
+
+.single-job_listing .entry-title {
+    font-family: 'Roboto Condensed',Helvetica,Arial,Lucida,sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 49px;
+    color: #314937!important;
+}
+
+.single-job_listing #left-area {
+    width: 100%;
+    padding-right: 0;
+}
+
+.single-job_listing #main-content .container:before {
+    display: none;
+}
+
+.single-job_listing .application_button {
+    color: #FFFFFF!important;
+    border-width: 6px!important;
+    border-color: #fbb102;
+    border-radius: 8px;
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-family: 'Roboto Condensed',Helvetica,Arial,Lucida,sans-serif!important;
+    font-weight: 700!important;
+    text-transform: uppercase!important;
+    background-color: #9e2432;
+    padding: 0.3em 1em !important;
+    line-height: 1.7em!important;
+    background-size: cover;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    border-style: solid;
+    font-size: 20px !important;
+    cursor: pointer;
+    transition: all 0.25s;
+}
+
+.single-job_listing .application_button:after {
+    line-height: inherit;
+    font-size: inherit!important;
+    margin-left: -1em;
+    left: auto;
+    font-weight: 400!important;
+    opacity: 0;
+    position: absolute;
+    transition: all 0.25s;
+}
+
+.single-job_listing .application_button:hover:after {
+    left: auto;
+    margin-left: 0.3em;
+    opacity: 1;
+}
+
+.single-job_listing .application_button:hover {
+    padding: 0.3em 2em 0.3em 0.7em !important;
+}
+
+.job-position h3 {
+    font-family: 'Roboto Condensed',Helvetica,Arial,Lucida,sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    color: #9e2432!important;
+    margin-top: 0;
+    padding: 0;
+}
+
+.job-link {
+    padding-left: 12px !important;
+}
+
+.job_listings {
+    padding-left: 0 !important;
+}
+
+.b2-link {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  margin: -1px;
+  padding: 0;
+  border: 0;
+}
+
+
+
