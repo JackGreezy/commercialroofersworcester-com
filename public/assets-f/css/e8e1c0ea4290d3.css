@@ -1,9 +1,9 @@
 @font-face {
-  font-family: 'miron-icons';
+  font-family: 'nsa409c-icons';
   src:
     url("/assets-f/fonts/09fd68e0f11f6a.ttf") format('truetype'),
-    url('fonts/miron-icons.woff?k18uxx') format('woff'),
-    url('fonts/miron-icons.svg?k18uxx#miron-icons') format('svg');
+    url('fonts/nsa409c-icons.woff?k18uxx') format('woff'),
+    url('fonts/nsa409c-icons.svg?k18uxx#nsa409c-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -11,7 +11,7 @@
 
 [class^="mc-icon-"], [class*=" mc-icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'miron-icons' !important;
+  font-family: 'nsa409c-icons' !important;
   speak: never;
   font-style: normal;
   font-weight: normal;

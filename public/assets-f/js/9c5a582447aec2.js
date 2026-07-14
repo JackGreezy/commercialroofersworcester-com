@@ -156,7 +156,7 @@ jQuery(function( $ ) {
 
         /*setTimeout(function() {
             $( '#home-drive' ).parallax({
-                imageSrc: '/wp-content/themes/miron/images/backgrounds/what-drives-us.jpg'
+                imageSrc: '/wp-content/themes/nza409c/images/backgrounds/what-drives-us.jpg'
             });
             console.log('wooo');
         }, 1000 );*/

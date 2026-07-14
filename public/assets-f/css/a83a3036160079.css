@@ -46,7 +46,7 @@
 }
 
 .pw-btn.pw-btn-primary {
-  background-color: #002856; /* Miron primary color */
+  background-color: #002856; /* nza409c primary color */
   color: #fff;
   padding: 10px 20px;
   border-radius: 5px;
@@ -55,7 +55,7 @@
 }
 
 .pw-btn.pw-btn-primary:hover {
-  background-color: #004080; /* Miron hover color */
+  background-color: #004080; /* nza409c hover color */
   text-decoration: none;
   color: #fff;
 }

@@ -39,7 +39,7 @@ jQuery(function( $ ) {
             var url   = $( this ).attr( 'href' ),
                 title = $( 'title' ).text();
 
-            $( '#main-content' ).html( '<img src="/wp-content/themes/miron/images/loading.gif" />' );
+            $( '#main-content' ).html( '<img src="/wp-content/themes/nza409c/images/loading.gif" />' );
 
             sb_set_ajax_select( url );
 
@@ -56,7 +56,7 @@ jQuery(function( $ ) {
             var url   = $( this ).val(),
                 title = $( '.sb-select-ajax-nav option:selected' ).text();
 
-            $( '#main-content' ).html( '<img src="/wp-content/themes/miron/images/loading.gif" />' );
+            $( '#main-content' ).html( '<img src="/wp-content/themes/nza409c/images/loading.gif" />' );
 
             ajax_load_page( url );
 
@@ -81,7 +81,7 @@ jQuery(function( $ ) {
             var url   = location.href;
             document.title = e.state.title;
 
-            $( '#main-content' ).html( '<img src="/wp-content/themes/miron/images/loading.gif" />' );
+            $( '#main-content' ).html( '<img src="/wp-content/themes/nza409c/images/loading.gif" />' );
 
             ajax_load_page( e.state.url );
 
