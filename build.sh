@@ -30,6 +30,7 @@ if os.path.isdir(src):
 PY
 python3 "$S/relabel_engine.py" --config "$PROJ/home.config.json" --map "$MAP" --voice "$VOICE"
 python3 "$PROJ/scripts/normalize-contact-forms.py" "$PROJ"
+python3 "$PROJ/scripts/hobo-seo-finalize.py" "$PROJ"
 python3 "$S/verify_site.py" "$PROJ" --map "$MAP" --json "$PROJ/qa-out/verify.json"
 node "$S/qa_shots.mjs" "$PROJ"
 
