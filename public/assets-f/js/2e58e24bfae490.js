@@ -1,5 +1,5 @@
 
-class lottieHandler extends elementorModules.frontend.handlers.Base {
+class lottieHandler extends eva9e4elModules.frontend.handlers.Base {
   getDefaultSettings() {
     return {
       selectors: {
@@ -92,7 +92,7 @@ class lottieHandler extends elementorModules.frontend.handlers.Base {
 
   lazyloadLottie() {
     const bufferHeightBeforeTriggerLottie = 200;
-    this.intersectionObservers.lazyload.observer = elementorModules.utils.Scroll.scrollObserver({
+    this.intersectionObservers.lazyload.observer = eva9e4elModules.utils.Scroll.scrollObserver({
       offset: `0px 0px ${bufferHeightBeforeTriggerLottie}px`,
       callback: event => {
         if (event.isInViewport) {
@@ -136,7 +136,7 @@ class lottieHandler extends elementorModules.frontend.handlers.Base {
     } // Default animation path.
 
 
-    return; //elementorProFrontend.config.lottie.defaultAnimationUrl;
+    return; //eva9e4elProFrontend.config.lottie.defaultAnimationUrl;
   }
 
   setCaption() {
@@ -230,7 +230,7 @@ class lottieHandler extends elementorModules.frontend.handlers.Base {
 
   playAnimationWhenArrivingToViewport() {
     const offset = this.getOffset();
-    this.intersectionObservers.animation.observer = elementorModules.utils.Scroll.scrollObserver({
+    this.intersectionObservers.animation.observer = eva9e4elModules.utils.Scroll.scrollObserver({
       offset: `${offset.end}% 0% ${offset.start}%`,
       callback: event => {
         if (event.isInViewport) {
@@ -260,7 +260,7 @@ class lottieHandler extends elementorModules.frontend.handlers.Base {
     const lottieSettings = this.getLottieSettings(),
           offset = this.getOffset(); // Generate scroll detection by Intersection Observer API
 
-    this.intersectionObservers.animation.observer = elementorModules.utils.Scroll.scrollObserver({
+    this.intersectionObservers.animation.observer = eva9e4elModules.utils.Scroll.scrollObserver({
       offset: `${offset.end}% 0% ${offset.start}%`,
       callback: event => this.onLottieIntersection(event)
     });
@@ -286,15 +286,15 @@ class lottieHandler extends elementorModules.frontend.handlers.Base {
   }
 
   getLottieViewportPercentage() {
-    return elementorModules.utils.Scroll.getElementViewportPercentage(this.elements.$widgetWrapper, this.getOffset());
+    return eva9e4elModules.utils.Scroll.getElementViewportPercentage(this.elements.$widgetWrapper, this.getOffset());
   }
 
   getLottiePagePercentage() {
-    return elementorModules.utils.Scroll.getPageScrollPercentage(this.getOffset());
+    return eva9e4elModules.utils.Scroll.getPageScrollPercentage(this.getOffset());
   }
 
   getLottieViewportHeightPercentage() {
-    return elementorModules.utils.Scroll.getPageScrollPercentage(this.getOffset(), window.innerHeight);
+    return eva9e4elModules.utils.Scroll.getPageScrollPercentage(this.getOffset(), window.innerHeight);
   }
   /**
    * @param {number} percent - Percent value between 0-100
@@ -729,10 +729,10 @@ class lottieHandler extends elementorModules.frontend.handlers.Base {
 
 jQuery( window ).on( 'hrnmoel/frontend/init', () => {
   const addHandler = ( $element ) => {
-    elementorFrontend.elementsHandler.addHandler( lottieHandler, {
+    eva9e4elFrontend.elementsHandler.addHandler( lottieHandler, {
       $element,
     } );
   };
   // Add our handler to the my-hrnmoel Widget (this is the slug we get from get_name() in PHP)
-  elementorFrontend.hooks.addAction( 'frontend/element_ready/lottie-widget.default', addHandler );
+  eva9e4elFrontend.hooks.addAction( 'frontend/element_ready/lottie-widget.default', addHandler );
  } );
