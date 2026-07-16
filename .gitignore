@@ -2,3 +2,5 @@
 qa-out/
 qa-screens/
 qa-reference-compare/
+.vercel
+.env*.local
