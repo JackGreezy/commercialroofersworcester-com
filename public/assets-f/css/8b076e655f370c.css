@@ -1,4 +1,4 @@
-.elementor-image-box-img_bg {
+.hrnmoel-image-box-img_bg {
   position: absolute;
   top: 0;
   left: 0;
@@ -10,7 +10,7 @@
   transform: scale(1);
 }
 
-.elementor-image-panel-wrapper .image-panel .scale-image {
+.hrnmoel-image-panel-wrapper .image-panel .scale-image {
   position: absolute;
   top: 0;
   left: 0;
@@ -22,7 +22,7 @@
   transform: scale(1);
 }
 
-.elementor-image-panel-wrapper .image-panel {
+.hrnmoel-image-panel-wrapper .image-panel {
   display: block;
   background-color: #ccc;
   overflow: hidden;
@@ -34,7 +34,7 @@
   right: 0;
 }
 
-.elementor-image-panel-wrapper .panel-overlay {
+.hrnmoel-image-panel-wrapper .panel-overlay {
   width: 100%;
   height: 100%;
   top: 0;
@@ -48,7 +48,7 @@
   transition: 0.5s ease-out;
 }
 
-.elementor-image-panel-wrapper .panel-overlay .panel-interior {
+.hrnmoel-image-panel-wrapper .panel-overlay .panel-interior {
   position: absolute;
   left: 0;
   right: 0;
@@ -58,13 +58,13 @@
   padding: 0 20px;
 }
 
-.elementor-image-panel-wrapper .panel-overlay .panel-icon {
+.hrnmoel-image-panel-wrapper .panel-overlay .panel-icon {
   position: relative;
   display: inline-flex;
   margin-bottom: 17px;
 }
 
-.elementor-image-panel-wrapper .panel-overlay h3 {
+.hrnmoel-image-panel-wrapper .panel-overlay h3 {
   font-family: lato-black;
   text-transform: uppercase;
   letter-spacing: 1.5px;
@@ -75,25 +75,25 @@
   margin-bottom: 7px;
 }
 
-.elementor-image-panel-wrapper .panel-overlay .panel-details {
+.hrnmoel-image-panel-wrapper .panel-overlay .panel-details {
   display: block;
   font-size: 14px;
   line-height: 16px;
 }
 
-.elementor-image-panel-wrapper .image-panel:hover > .scale-image {
+.hrnmoel-image-panel-wrapper .image-panel:hover > .scale-image {
   transform: scale(1.05);
 }
 
-.elementor-image-panel-wrapper .panel-icon {
+.hrnmoel-image-panel-wrapper .panel-icon {
   max-width: 100px;
 }
 
-.elementor-image-panel-wrapper .elementor-icon {
+.hrnmoel-image-panel-wrapper .hrnmoel-icon {
   fill: currentColor;
 }
 
-.elementor-image-panel-wrapper {
+.hrnmoel-image-panel-wrapper {
   position: relative;
   padding-top: 100%;
 }

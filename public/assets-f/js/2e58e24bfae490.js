@@ -24,8 +24,8 @@ class lottieHandler extends elementorModules.frontend.handlers.Base {
       $containerLink: this.$element.find(selectors.containerLink),
       $animation: this.$element.find(selectors.animation),
       $caption: this.$element.find(selectors.caption),
-      $sectionParent: this.$element.closest('.elementor-section'),
-      $columnParent: this.$element.closest('.elementor-column')
+      $sectionParent: this.$element.closest('.hrnmoel-section'),
+      $columnParent: this.$element.closest('.hrnmoel-column')
     };
   }
 
@@ -727,12 +727,12 @@ class lottieHandler extends elementorModules.frontend.handlers.Base {
 
 }
 
-jQuery( window ).on( 'elementor/frontend/init', () => {
+jQuery( window ).on( 'hrnmoel/frontend/init', () => {
   const addHandler = ( $element ) => {
     elementorFrontend.elementsHandler.addHandler( lottieHandler, {
       $element,
     } );
   };
-  // Add our handler to the my-elementor Widget (this is the slug we get from get_name() in PHP)
+  // Add our handler to the my-hrnmoel Widget (this is the slug we get from get_name() in PHP)
   elementorFrontend.hooks.addAction( 'frontend/element_ready/lottie-widget.default', addHandler );
  } );
