@@ -30,8 +30,8 @@ if os.path.isdir(src):
 PY
 python3 "$S/relabel_engine.py" --config "$PROJ/home.config.json" --map "$MAP" --voice "$VOICE"
 python3 "$PROJ/scripts/normalize-contact-forms.py" "$PROJ"
-python3 "$PROJ/scripts/hobo-seo-finalize.py" "$PROJ"
+find "$PROJ/public" -type f -name '*.html' -exec perl -pi -e 's/[ \t]+$//' {} +
 python3 "$S/verify_site.py" "$PROJ" --map "$MAP" --json "$PROJ/qa-out/verify.json"
 node "$S/qa_shots.mjs" "$PROJ"
 
-echo "BUILD COMPLETE — gates green. Human QA: open $PROJ/qa-out/contact-sheet.html"
+echo "BUILD COMPLETE — gates green. Human QA: open $PROJ/qa-out/CONTACT-SHEET.html"
