@@ -31,6 +31,7 @@ PY
 python3 "$S/relabel_engine.py" --config "$PROJ/home.config.json" --map "$MAP" --voice "$VOICE"
 python3 "$PROJ/scripts/normalize-contact-forms.py" "$PROJ"
 find "$PROJ/public" -type f -name '*.html' -exec perl -pi -e 's/[ \t]+$//' {} +
+node "$PROJ/scripts/finalize-lead-controls.mjs" "$PROJ"
 python3 "$S/verify_site.py" "$PROJ" --map "$MAP" --json "$PROJ/qa-out/verify.json"
 node "$S/qa_shots.mjs" "$PROJ"
 

@@ -202,7 +202,6 @@ for (const file of walk(publicDir)) {
 
 const configPath = path.join(root, "home.config.json");
 const config = JSON.parse(fs.readFileSync(configPath, "utf8"));
-config.phone = "";
 config.brand_logo = "/images/brand/logo.png";
 config.brand_logo_header = "/images/brand/logo-on-light.png";
 config.brand_logo_footer = "/images/brand/logo-on-dark.png";
