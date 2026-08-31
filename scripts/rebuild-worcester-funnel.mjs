@@ -12,7 +12,7 @@ const styleTag = '<link href="/worcester-funnel.css?v=20260812" id="worcester-fu
 const mobileCta = '<a class="worcester-mobile-roof-help" href="/contact">Roof Help</a>';
 
 const hero = `<div class="worcester-hero" id="hero">
-  <img src="/images/locations/commercial-roofers-worcester-ma-01.webp" alt="Worcester commercial buildings served by local commercial roofers" width="1920" height="1080" fetchpriority="high" decoding="async">
+  <img src="/images/service-areas/commercial-roofers-worcester-ma-01.webp" alt="Worcester commercial buildings served by local commercial roofers" width="1920" height="1080" fetchpriority="high" decoding="async">
   <div class="worcester-hero__inner">
     <p class="worcester-eyebrow">Worcester Commercial Roofing</p>
     <h1>Stop the Leak. See What the Roof Needs.</h1>
@@ -117,7 +117,7 @@ const home = `<div class="worcester-home" id="home-wrapper">
         <a class="worcester-market-card" href="/project-types/medical-office-building-roofing"><img src="/images/project-types/medical-office-building-roofing-commercial-roofers-worcester-ma.webp" alt="Medical office building commercial roof" loading="lazy" decoding="async"><div><h3>Medical and Office</h3><p>Occupied-building work planned around patients, tenants, entrances, and rooftop systems.</p></div></a>
         <a class="worcester-market-card" href="/industries/manufacturing-operators"><img src="/images/industries/manufacturing-operators-commercial-roofers-worcester-ma.webp" alt="Manufacturing facility commercial roof" loading="lazy" decoding="async"><div><h3>Manufacturing and Industrial</h3><p>Roof work tied to production, safety, exhaust, equipment, and shutdown limits.</p></div></a>
       </div>
-      <div class="worcester-areas"><a href="/locations/shrewsbury">Shrewsbury</a><a href="/locations/holden">Holden</a><a href="/locations/auburn">Auburn</a><a href="/locations/millbury">Millbury</a><a href="/locations/grafton">Grafton</a><a href="/locations/westborough">Westborough</a><a href="/locations">All Service Areas</a></div>
+      <div class="worcester-areas"><a href="/service-areas/shrewsbury">Shrewsbury</a><a href="/service-areas/holden">Holden</a><a href="/service-areas/auburn">Auburn</a><a href="/service-areas/millbury">Millbury</a><a href="/service-areas/grafton">Grafton</a><a href="/service-areas/westborough">Westborough</a><a href="/service-areas">All Service Areas</a></div>
     </div>
   </section>
 

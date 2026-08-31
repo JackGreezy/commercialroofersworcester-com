@@ -1,5 +1,403 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
-  "buildCommand": "node scripts/normalize-contact-forms.mjs && node scripts/finalize-lead-controls.mjs"
+  "buildCommand": "node scripts/normalize-contact-forms.mjs && node scripts/finalize-lead-controls.mjs",
+  "rewrites": [],
+  "redirects": [
+    {
+      "source": "/locations/:path*",
+      "destination": "/service-areas/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/locations",
+      "destination": "/service-areas",
+      "permanent": true
+    },
+    {
+      "source": "/locations/auburn",
+      "destination": "/service-areas/auburn",
+      "permanent": true
+    },
+    {
+      "source": "/locations/auburn/",
+      "destination": "/service-areas/auburn",
+      "permanent": true
+    },
+    {
+      "source": "/locations/berlin",
+      "destination": "/service-areas/berlin",
+      "permanent": true
+    },
+    {
+      "source": "/locations/berlin/",
+      "destination": "/service-areas/berlin",
+      "permanent": true
+    },
+    {
+      "source": "/locations/bolton",
+      "destination": "/service-areas/bolton",
+      "permanent": true
+    },
+    {
+      "source": "/locations/bolton/",
+      "destination": "/service-areas/bolton",
+      "permanent": true
+    },
+    {
+      "source": "/locations/boylston",
+      "destination": "/service-areas/boylston",
+      "permanent": true
+    },
+    {
+      "source": "/locations/boylston/",
+      "destination": "/service-areas/boylston",
+      "permanent": true
+    },
+    {
+      "source": "/locations/charlton",
+      "destination": "/service-areas/charlton",
+      "permanent": true
+    },
+    {
+      "source": "/locations/charlton/",
+      "destination": "/service-areas/charlton",
+      "permanent": true
+    },
+    {
+      "source": "/locations/clinton",
+      "destination": "/service-areas/clinton",
+      "permanent": true
+    },
+    {
+      "source": "/locations/clinton/",
+      "destination": "/service-areas/clinton",
+      "permanent": true
+    },
+    {
+      "source": "/locations/douglas",
+      "destination": "/service-areas/douglas",
+      "permanent": true
+    },
+    {
+      "source": "/locations/douglas/",
+      "destination": "/service-areas/douglas",
+      "permanent": true
+    },
+    {
+      "source": "/locations/dudley",
+      "destination": "/service-areas/dudley",
+      "permanent": true
+    },
+    {
+      "source": "/locations/dudley/",
+      "destination": "/service-areas/dudley",
+      "permanent": true
+    },
+    {
+      "source": "/locations/fitchburg",
+      "destination": "/service-areas/fitchburg",
+      "permanent": true
+    },
+    {
+      "source": "/locations/fitchburg/",
+      "destination": "/service-areas/fitchburg",
+      "permanent": true
+    },
+    {
+      "source": "/locations/gardner",
+      "destination": "/service-areas/gardner",
+      "permanent": true
+    },
+    {
+      "source": "/locations/gardner/",
+      "destination": "/service-areas/gardner",
+      "permanent": true
+    },
+    {
+      "source": "/locations/grafton",
+      "destination": "/service-areas/grafton",
+      "permanent": true
+    },
+    {
+      "source": "/locations/grafton/",
+      "destination": "/service-areas/grafton",
+      "permanent": true
+    },
+    {
+      "source": "/locations/harvard",
+      "destination": "/service-areas/harvard",
+      "permanent": true
+    },
+    {
+      "source": "/locations/harvard/",
+      "destination": "/service-areas/harvard",
+      "permanent": true
+    },
+    {
+      "source": "/locations/holden",
+      "destination": "/service-areas/holden",
+      "permanent": true
+    },
+    {
+      "source": "/locations/holden/",
+      "destination": "/service-areas/holden",
+      "permanent": true
+    },
+    {
+      "source": "/locations/hudson",
+      "destination": "/service-areas/hudson",
+      "permanent": true
+    },
+    {
+      "source": "/locations/hudson/",
+      "destination": "/service-areas/hudson",
+      "permanent": true
+    },
+    {
+      "source": "/locations/lancaster",
+      "destination": "/service-areas/lancaster",
+      "permanent": true
+    },
+    {
+      "source": "/locations/lancaster/",
+      "destination": "/service-areas/lancaster",
+      "permanent": true
+    },
+    {
+      "source": "/locations/leicester",
+      "destination": "/service-areas/leicester",
+      "permanent": true
+    },
+    {
+      "source": "/locations/leicester/",
+      "destination": "/service-areas/leicester",
+      "permanent": true
+    },
+    {
+      "source": "/locations/leominster",
+      "destination": "/service-areas/leominster",
+      "permanent": true
+    },
+    {
+      "source": "/locations/leominster/",
+      "destination": "/service-areas/leominster",
+      "permanent": true
+    },
+    {
+      "source": "/locations/lunenburg",
+      "destination": "/service-areas/lunenburg",
+      "permanent": true
+    },
+    {
+      "source": "/locations/lunenburg/",
+      "destination": "/service-areas/lunenburg",
+      "permanent": true
+    },
+    {
+      "source": "/locations/marlborough",
+      "destination": "/service-areas/marlborough",
+      "permanent": true
+    },
+    {
+      "source": "/locations/marlborough/",
+      "destination": "/service-areas/marlborough",
+      "permanent": true
+    },
+    {
+      "source": "/locations/millbury",
+      "destination": "/service-areas/millbury",
+      "permanent": true
+    },
+    {
+      "source": "/locations/millbury/",
+      "destination": "/service-areas/millbury",
+      "permanent": true
+    },
+    {
+      "source": "/locations/northborough",
+      "destination": "/service-areas/northborough",
+      "permanent": true
+    },
+    {
+      "source": "/locations/northborough/",
+      "destination": "/service-areas/northborough",
+      "permanent": true
+    },
+    {
+      "source": "/locations/oxford",
+      "destination": "/service-areas/oxford",
+      "permanent": true
+    },
+    {
+      "source": "/locations/oxford/",
+      "destination": "/service-areas/oxford",
+      "permanent": true
+    },
+    {
+      "source": "/locations/paxton",
+      "destination": "/service-areas/paxton",
+      "permanent": true
+    },
+    {
+      "source": "/locations/paxton/",
+      "destination": "/service-areas/paxton",
+      "permanent": true
+    },
+    {
+      "source": "/locations/princeton",
+      "destination": "/service-areas/princeton",
+      "permanent": true
+    },
+    {
+      "source": "/locations/princeton/",
+      "destination": "/service-areas/princeton",
+      "permanent": true
+    },
+    {
+      "source": "/locations/rutland",
+      "destination": "/service-areas/rutland",
+      "permanent": true
+    },
+    {
+      "source": "/locations/rutland/",
+      "destination": "/service-areas/rutland",
+      "permanent": true
+    },
+    {
+      "source": "/locations/shrewsbury",
+      "destination": "/service-areas/shrewsbury",
+      "permanent": true
+    },
+    {
+      "source": "/locations/shrewsbury/",
+      "destination": "/service-areas/shrewsbury",
+      "permanent": true
+    },
+    {
+      "source": "/locations/southborough",
+      "destination": "/service-areas/southborough",
+      "permanent": true
+    },
+    {
+      "source": "/locations/southborough/",
+      "destination": "/service-areas/southborough",
+      "permanent": true
+    },
+    {
+      "source": "/locations/southbridge",
+      "destination": "/service-areas/southbridge",
+      "permanent": true
+    },
+    {
+      "source": "/locations/southbridge/",
+      "destination": "/service-areas/southbridge",
+      "permanent": true
+    },
+    {
+      "source": "/locations/spencer",
+      "destination": "/service-areas/spencer",
+      "permanent": true
+    },
+    {
+      "source": "/locations/spencer/",
+      "destination": "/service-areas/spencer",
+      "permanent": true
+    },
+    {
+      "source": "/locations/sterling",
+      "destination": "/service-areas/sterling",
+      "permanent": true
+    },
+    {
+      "source": "/locations/sterling/",
+      "destination": "/service-areas/sterling",
+      "permanent": true
+    },
+    {
+      "source": "/locations/sturbridge",
+      "destination": "/service-areas/sturbridge",
+      "permanent": true
+    },
+    {
+      "source": "/locations/sturbridge/",
+      "destination": "/service-areas/sturbridge",
+      "permanent": true
+    },
+    {
+      "source": "/locations/sutton",
+      "destination": "/service-areas/sutton",
+      "permanent": true
+    },
+    {
+      "source": "/locations/sutton/",
+      "destination": "/service-areas/sutton",
+      "permanent": true
+    },
+    {
+      "source": "/locations/uxbridge",
+      "destination": "/service-areas/uxbridge",
+      "permanent": true
+    },
+    {
+      "source": "/locations/uxbridge/",
+      "destination": "/service-areas/uxbridge",
+      "permanent": true
+    },
+    {
+      "source": "/locations/webster",
+      "destination": "/service-areas/webster",
+      "permanent": true
+    },
+    {
+      "source": "/locations/webster/",
+      "destination": "/service-areas/webster",
+      "permanent": true
+    },
+    {
+      "source": "/locations/west-boylston",
+      "destination": "/service-areas/west-boylston",
+      "permanent": true
+    },
+    {
+      "source": "/locations/west-boylston/",
+      "destination": "/service-areas/west-boylston",
+      "permanent": true
+    },
+    {
+      "source": "/locations/westborough",
+      "destination": "/service-areas/westborough",
+      "permanent": true
+    },
+    {
+      "source": "/locations/westborough/",
+      "destination": "/service-areas/westborough",
+      "permanent": true
+    },
+    {
+      "source": "/locations/westminster",
+      "destination": "/service-areas/westminster",
+      "permanent": true
+    },
+    {
+      "source": "/locations/westminster/",
+      "destination": "/service-areas/westminster",
+      "permanent": true
+    },
+    {
+      "source": "/locations/whitinsville",
+      "destination": "/service-areas/whitinsville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/whitinsville/",
+      "destination": "/service-areas/whitinsville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/",
+      "destination": "/service-areas",
+      "permanent": true
+    }
+  ]
 }

@@ -10,7 +10,7 @@
  "taxonomies": {
   "locations": {
    "title": "Service Areas",
-   "route": "/locations",
+   "route": "/service-areas",
    "items": [
     {
      "slug": "shrewsbury",
@@ -26,23 +26,23 @@
      "related": [
       {
        "label": "Sizing Roof Budgets for Marlborough's Campus and Distribution Buildings",
-       "href": "/locations/marlborough"
+       "href": "/service-areas/marlborough"
       },
       {
        "label": "Open-Air Retail Roofs Near the Mass Pike in Millbury",
-       "href": "/locations/millbury"
+       "href": "/service-areas/millbury"
       },
       {
        "label": "Distribution Roofs and Standing Seam Metal Along Route 20",
-       "href": "/locations/northborough"
+       "href": "/service-areas/northborough"
       },
       {
        "label": "Insulation Precision for Oxford's Manufacturing Buildings",
-       "href": "/locations/oxford"
+       "href": "/service-areas/oxford"
       },
       {
        "label": "Institutional and Small-Business Roof Budgets for Paxton",
-       "href": "/locations/paxton"
+       "href": "/service-areas/paxton"
       },
       {
        "label": "Standing Seam Panels for Steep-Slope Snow Shedding in Worcester",
@@ -92,23 +92,23 @@
      "related": [
       {
        "label": "Distribution Roofs and Standing Seam Metal Along Route 20",
-       "href": "/locations/northborough"
+       "href": "/service-areas/northborough"
       },
       {
        "label": "Insulation Precision for Oxford's Manufacturing Buildings",
-       "href": "/locations/oxford"
+       "href": "/service-areas/oxford"
       },
       {
        "label": "Institutional and Small-Business Roof Budgets for Paxton",
-       "href": "/locations/paxton"
+       "href": "/service-areas/paxton"
       },
       {
        "label": "Elevated Snow Load Roofing Near Wachusett Mountain",
-       "href": "/locations/princeton"
+       "href": "/service-areas/princeton"
       },
       {
        "label": "Small-Building Roof Pricing for Rutland's Municipal and Professional Stock",
-       "href": "/locations/rutland"
+       "href": "/service-areas/rutland"
       },
       {
        "label": "Documenting Storm Damage for Worcester Insurance Claims",
@@ -158,23 +158,23 @@
      "related": [
       {
        "label": "Roofing Gardner's Furniture-Era Buildings and Route 68 Plazas",
-       "href": "/locations/gardner"
+       "href": "/service-areas/gardner"
       },
       {
        "label": "Roofing Around Grafton's Veterinary Campus and Rail-Driven Growth",
-       "href": "/locations/grafton"
+       "href": "/service-areas/grafton"
       },
       {
        "label": "Roofing Orchard Buildings and Small Offices at Harvard's Devens Edge",
-       "href": "/locations/harvard"
+       "href": "/service-areas/harvard"
       },
       {
        "label": "Roof Work for Holden's Main Street and Office Buildings",
-       "href": "/locations/holden"
+       "href": "/service-areas/holden"
       },
       {
        "label": "From Fab-Building Roofs to Brewery Rooftops in Hudson",
-       "href": "/locations/hudson"
+       "href": "/service-areas/hudson"
       },
       {
        "label": "Preventive Maintenance Contracts That Fit a Worcester Winter Calendar",
@@ -220,23 +220,23 @@
      "related": [
       {
        "label": "Roofing the Mill Buildings Along the Nashua River",
-       "href": "/locations/fitchburg"
+       "href": "/service-areas/fitchburg"
       },
       {
        "label": "Roofing Gardner's Furniture-Era Buildings and Route 68 Plazas",
-       "href": "/locations/gardner"
+       "href": "/service-areas/gardner"
       },
       {
        "label": "Roofing Around Grafton's Veterinary Campus and Rail-Driven Growth",
-       "href": "/locations/grafton"
+       "href": "/service-areas/grafton"
       },
       {
        "label": "Roofing Orchard Buildings and Small Offices at Harvard's Devens Edge",
-       "href": "/locations/harvard"
+       "href": "/service-areas/harvard"
       },
       {
        "label": "Roof Work for Holden's Main Street and Office Buildings",
-       "href": "/locations/holden"
+       "href": "/service-areas/holden"
       },
       {
        "label": "Built-Up Roofing on Worcester's Legacy Campus and Mill Buildings",
@@ -286,23 +286,23 @@
      "related": [
       {
        "label": "Roofing Small Offices and Orchard Buildings Near Bolton's I-495 Interchange",
-       "href": "/locations/bolton"
+       "href": "/service-areas/bolton"
       },
       {
        "label": "Roof Estimates for Boylston's Small Office and Institutional Buildings",
-       "href": "/locations/boylston"
+       "href": "/service-areas/boylston"
       },
       {
        "label": "Beverage-Production Roofs and Turnpike Frontage in Charlton",
-       "href": "/locations/charlton"
+       "href": "/service-areas/charlton"
       },
       {
        "label": "Roof Drainage and Watershed Rules in Clinton",
-       "href": "/locations/clinton"
+       "href": "/service-areas/clinton"
       },
       {
        "label": "Roof Service for Douglas's Small Commercial Buildings",
-       "href": "/locations/douglas"
+       "href": "/service-areas/douglas"
       },
       {
        "label": "Commercial Reroofing Budgets for Worcester County Facilities",
@@ -352,23 +352,23 @@
      "related": [
       {
        "label": "Roofing Leicester's Route 9 Businesses and Repurposed Campus Buildings",
-       "href": "/locations/leicester"
+       "href": "/service-areas/leicester"
       },
       {
        "label": "Roofing Leominster's Plastics Plants and Hospital Campus",
-       "href": "/locations/leominster"
+       "href": "/service-areas/leominster"
       },
       {
        "label": "Roofing Lunenburg's Route 2A Retail and Lakeside Buildings",
-       "href": "/locations/lunenburg"
+       "href": "/service-areas/lunenburg"
       },
       {
        "label": "Sizing Roof Budgets for Marlborough's Campus and Distribution Buildings",
-       "href": "/locations/marlborough"
+       "href": "/service-areas/marlborough"
       },
       {
        "label": "Open-Air Retail Roofs Near the Mass Pike in Millbury",
-       "href": "/locations/millbury"
+       "href": "/service-areas/millbury"
       },
       {
        "label": "Acrylic Coatings for Worcester's Metal Roof Restoration Jobs",
@@ -414,23 +414,23 @@
      "related": [
       {
        "label": "Route 146 Corridor and Mill-Town Roofs in Uxbridge",
-       "href": "/locations/uxbridge"
+       "href": "/service-areas/uxbridge"
       },
       {
        "label": "Flat-Roof Work on Webster's Converted Mill Buildings",
-       "href": "/locations/webster"
+       "href": "/service-areas/webster"
       },
       {
        "label": "Roofing West Boylston's Route 12 Retail and Public Facility Buildings",
-       "href": "/locations/west-boylston"
+       "href": "/service-areas/west-boylston"
       },
       {
        "label": "Roofing Research Park Buildings Near the Mass Pike Interchange",
-       "href": "/locations/westborough"
+       "href": "/service-areas/westborough"
       },
       {
        "label": "Large-Format Warehouse Roofs Along Westminster's Route 2 Corridor",
-       "href": "/locations/westminster"
+       "href": "/service-areas/westminster"
       },
       {
        "label": "R-Panel Metal Roofing for Worcester's Industrial and Distribution Buildings",
@@ -480,23 +480,23 @@
      "related": [
       {
        "label": "Flat-Roof Work on Webster's Converted Mill Buildings",
-       "href": "/locations/webster"
+       "href": "/service-areas/webster"
       },
       {
        "label": "Roofing West Boylston's Route 12 Retail and Public Facility Buildings",
-       "href": "/locations/west-boylston"
+       "href": "/service-areas/west-boylston"
       },
       {
        "label": "Roofing Research Park Buildings Near the Mass Pike Interchange",
-       "href": "/locations/westborough"
+       "href": "/service-areas/westborough"
       },
       {
        "label": "Large-Format Warehouse Roofs Along Westminster's Route 2 Corridor",
-       "href": "/locations/westminster"
+       "href": "/service-areas/westminster"
       },
       {
        "label": "Roofing the Whitin Machine Works Mill Complex",
-       "href": "/locations/whitinsville"
+       "href": "/service-areas/whitinsville"
       },
       {
        "label": "Why EPDM Still Gets Specified on Worcester's Mill Conversions",
@@ -546,23 +546,23 @@
      "related": [
       {
        "label": "Roofing Around Grafton's Veterinary Campus and Rail-Driven Growth",
-       "href": "/locations/grafton"
+       "href": "/service-areas/grafton"
       },
       {
        "label": "Roofing Orchard Buildings and Small Offices at Harvard's Devens Edge",
-       "href": "/locations/harvard"
+       "href": "/service-areas/harvard"
       },
       {
        "label": "Roof Work for Holden's Main Street and Office Buildings",
-       "href": "/locations/holden"
+       "href": "/service-areas/holden"
       },
       {
        "label": "From Fab-Building Roofs to Brewery Rooftops in Hudson",
-       "href": "/locations/hudson"
+       "href": "/service-areas/hudson"
       },
       {
        "label": "Roofing Budgets for Lancaster's Route 2 and Devens-Edge Buildings",
-       "href": "/locations/lancaster"
+       "href": "/service-areas/lancaster"
       },
       {
        "label": "TPO Membrane Specs for Worcester's Hospital and Campus Roofs",
@@ -612,23 +612,23 @@
      "related": [
       {
        "label": "Roof Estimates for Boylston's Small Office and Institutional Buildings",
-       "href": "/locations/boylston"
+       "href": "/service-areas/boylston"
       },
       {
        "label": "Beverage-Production Roofs and Turnpike Frontage in Charlton",
-       "href": "/locations/charlton"
+       "href": "/service-areas/charlton"
       },
       {
        "label": "Roof Drainage and Watershed Rules in Clinton",
-       "href": "/locations/clinton"
+       "href": "/service-areas/clinton"
       },
       {
        "label": "Roof Service for Douglas's Small Commercial Buildings",
-       "href": "/locations/douglas"
+       "href": "/service-areas/douglas"
       },
       {
        "label": "Roof Work for Dudley's Campus and Mill-Village Buildings",
-       "href": "/locations/dudley"
+       "href": "/service-areas/dudley"
       },
       {
        "label": "Storm Damage Repair Patterns After Worcester Nor'easters",
@@ -678,23 +678,23 @@
      "related": [
       {
        "label": "Roofing Lunenburg's Route 2A Retail and Lakeside Buildings",
-       "href": "/locations/lunenburg"
+       "href": "/service-areas/lunenburg"
       },
       {
        "label": "Sizing Roof Budgets for Marlborough's Campus and Distribution Buildings",
-       "href": "/locations/marlborough"
+       "href": "/service-areas/marlborough"
       },
       {
        "label": "Open-Air Retail Roofs Near the Mass Pike in Millbury",
-       "href": "/locations/millbury"
+       "href": "/service-areas/millbury"
       },
       {
        "label": "Distribution Roofs and Standing Seam Metal Along Route 20",
-       "href": "/locations/northborough"
+       "href": "/service-areas/northborough"
       },
       {
        "label": "Insulation Precision for Oxford's Manufacturing Buildings",
-       "href": "/locations/oxford"
+       "href": "/service-areas/oxford"
       },
       {
        "label": "Roof Inspection Scheduling for Worcester's Winter Cycle",
@@ -740,23 +740,23 @@
      "related": [
       {
        "label": "Large-Format Warehouse Roofs Along Westminster's Route 2 Corridor",
-       "href": "/locations/westminster"
+       "href": "/service-areas/westminster"
       },
       {
        "label": "Roofing the Whitin Machine Works Mill Complex",
-       "href": "/locations/whitinsville"
+       "href": "/service-areas/whitinsville"
       },
       {
        "label": "Big-Box and Logistics Roofs at the I-90/I-290 Junction",
-       "href": "/locations/auburn"
+       "href": "/service-areas/auburn"
       },
       {
        "label": "Big-Box and Retail Roof Budgets Along Berlin's Route 62 Corridor",
-       "href": "/locations/berlin"
+       "href": "/service-areas/berlin"
       },
       {
        "label": "Roofing Small Offices and Orchard Buildings Near Bolton's I-495 Interchange",
-       "href": "/locations/bolton"
+       "href": "/service-areas/bolton"
       },
       {
        "label": "Acrylic Coatings for Worcester's Metal Roof Restoration Jobs",
@@ -802,23 +802,23 @@
      "related": [
       {
        "label": "Roofing Sutton's Route 146 Business Park Buildings",
-       "href": "/locations/sutton"
+       "href": "/service-areas/sutton"
       },
       {
        "label": "Route 146 Corridor and Mill-Town Roofs in Uxbridge",
-       "href": "/locations/uxbridge"
+       "href": "/service-areas/uxbridge"
       },
       {
        "label": "Flat-Roof Work on Webster's Converted Mill Buildings",
-       "href": "/locations/webster"
+       "href": "/service-areas/webster"
       },
       {
        "label": "Roofing West Boylston's Route 12 Retail and Public Facility Buildings",
-       "href": "/locations/west-boylston"
+       "href": "/service-areas/west-boylston"
       },
       {
        "label": "Roofing Research Park Buildings Near the Mass Pike Interchange",
-       "href": "/locations/westborough"
+       "href": "/service-areas/westborough"
       },
       {
        "label": "TPO Membrane Specs for Worcester's Hospital and Campus Roofs",
@@ -868,23 +868,23 @@
      "related": [
       {
        "label": "Roof Drainage and Watershed Rules in Clinton",
-       "href": "/locations/clinton"
+       "href": "/service-areas/clinton"
       },
       {
        "label": "Roof Service for Douglas's Small Commercial Buildings",
-       "href": "/locations/douglas"
+       "href": "/service-areas/douglas"
       },
       {
        "label": "Roof Work for Dudley's Campus and Mill-Village Buildings",
-       "href": "/locations/dudley"
+       "href": "/service-areas/dudley"
       },
       {
        "label": "Roofing the Mill Buildings Along the Nashua River",
-       "href": "/locations/fitchburg"
+       "href": "/service-areas/fitchburg"
       },
       {
        "label": "Roofing Gardner's Furniture-Era Buildings and Route 68 Plazas",
-       "href": "/locations/gardner"
+       "href": "/service-areas/gardner"
       },
       {
        "label": "Acrylic Coatings for Worcester's Metal Roof Restoration Jobs",
@@ -930,23 +930,23 @@
      "related": [
       {
        "label": "Roofing Lunenburg's Route 2A Retail and Lakeside Buildings",
-       "href": "/locations/lunenburg"
+       "href": "/service-areas/lunenburg"
       },
       {
        "label": "Sizing Roof Budgets for Marlborough's Campus and Distribution Buildings",
-       "href": "/locations/marlborough"
+       "href": "/service-areas/marlborough"
       },
       {
        "label": "Open-Air Retail Roofs Near the Mass Pike in Millbury",
-       "href": "/locations/millbury"
+       "href": "/service-areas/millbury"
       },
       {
        "label": "Distribution Roofs and Standing Seam Metal Along Route 20",
-       "href": "/locations/northborough"
+       "href": "/service-areas/northborough"
       },
       {
        "label": "Institutional and Small-Business Roof Budgets for Paxton",
-       "href": "/locations/paxton"
+       "href": "/service-areas/paxton"
       },
       {
        "label": "Emergency Tarp and Dry-In Response After Worcester Storms",
@@ -996,23 +996,23 @@
      "related": [
       {
        "label": "Roofing Southborough's Route 9 Corporate Office Buildings",
-       "href": "/locations/southborough"
+       "href": "/service-areas/southborough"
       },
       {
        "label": "Sawtooth Roofs and Subdivided Industrial Space in Southbridge",
-       "href": "/locations/southbridge"
+       "href": "/service-areas/southbridge"
       },
       {
        "label": "Roofing Spencer's Route 9 Storefronts and Shop Buildings",
-       "href": "/locations/spencer"
+       "href": "/service-areas/spencer"
       },
       {
        "label": "Roofing for Sterling's Light-Industrial Shops and Farm Buildings",
-       "href": "/locations/sterling"
+       "href": "/service-areas/sterling"
       },
       {
        "label": "Hospitality Roofs at the Sturbridge Pike Interchange",
-       "href": "/locations/sturbridge"
+       "href": "/service-areas/sturbridge"
       },
       {
        "label": "PVC Membrane for Grease, Chemical, and Lab Exhaust Exposure",
@@ -1062,23 +1062,23 @@
      "related": [
       {
        "label": "Roofing the Mill Buildings Along the Nashua River",
-       "href": "/locations/fitchburg"
+       "href": "/service-areas/fitchburg"
       },
       {
        "label": "Roofing Gardner's Furniture-Era Buildings and Route 68 Plazas",
-       "href": "/locations/gardner"
+       "href": "/service-areas/gardner"
       },
       {
        "label": "Roofing Around Grafton's Veterinary Campus and Rail-Driven Growth",
-       "href": "/locations/grafton"
+       "href": "/service-areas/grafton"
       },
       {
        "label": "Roofing Orchard Buildings and Small Offices at Harvard's Devens Edge",
-       "href": "/locations/harvard"
+       "href": "/service-areas/harvard"
       },
       {
        "label": "Roof Work for Holden's Main Street and Office Buildings",
-       "href": "/locations/holden"
+       "href": "/service-areas/holden"
       },
       {
        "label": "Emergency Tarp and Dry-In Response After Worcester Storms",
@@ -1128,23 +1128,23 @@
      "related": [
       {
        "label": "Sizing Roof Budgets for Marlborough's Campus and Distribution Buildings",
-       "href": "/locations/marlborough"
+       "href": "/service-areas/marlborough"
       },
       {
        "label": "Open-Air Retail Roofs Near the Mass Pike in Millbury",
-       "href": "/locations/millbury"
+       "href": "/service-areas/millbury"
       },
       {
        "label": "Distribution Roofs and Standing Seam Metal Along Route 20",
-       "href": "/locations/northborough"
+       "href": "/service-areas/northborough"
       },
       {
        "label": "Insulation Precision for Oxford's Manufacturing Buildings",
-       "href": "/locations/oxford"
+       "href": "/service-areas/oxford"
       },
       {
        "label": "Institutional and Small-Business Roof Budgets for Paxton",
-       "href": "/locations/paxton"
+       "href": "/service-areas/paxton"
       },
       {
        "label": "Emergency Tarp and Dry-In Response After Worcester Storms",
@@ -1194,23 +1194,23 @@
      "related": [
       {
        "label": "Sizing Roof Budgets for Marlborough's Campus and Distribution Buildings",
-       "href": "/locations/marlborough"
+       "href": "/service-areas/marlborough"
       },
       {
        "label": "Open-Air Retail Roofs Near the Mass Pike in Millbury",
-       "href": "/locations/millbury"
+       "href": "/service-areas/millbury"
       },
       {
        "label": "Distribution Roofs and Standing Seam Metal Along Route 20",
-       "href": "/locations/northborough"
+       "href": "/service-areas/northborough"
       },
       {
        "label": "Insulation Precision for Oxford's Manufacturing Buildings",
-       "href": "/locations/oxford"
+       "href": "/service-areas/oxford"
       },
       {
        "label": "Institutional and Small-Business Roof Budgets for Paxton",
-       "href": "/locations/paxton"
+       "href": "/service-areas/paxton"
       },
       {
        "label": "Roof Inspection Scheduling for Worcester's Winter Cycle",
@@ -1256,23 +1256,23 @@
      "related": [
       {
        "label": "Roofing for Sterling's Light-Industrial Shops and Farm Buildings",
-       "href": "/locations/sterling"
+       "href": "/service-areas/sterling"
       },
       {
        "label": "Hospitality Roofs at the Sturbridge Pike Interchange",
-       "href": "/locations/sturbridge"
+       "href": "/service-areas/sturbridge"
       },
       {
        "label": "Roofing Sutton's Route 146 Business Park Buildings",
-       "href": "/locations/sutton"
+       "href": "/service-areas/sutton"
       },
       {
        "label": "Route 146 Corridor and Mill-Town Roofs in Uxbridge",
-       "href": "/locations/uxbridge"
+       "href": "/service-areas/uxbridge"
       },
       {
        "label": "Flat-Roof Work on Webster's Converted Mill Buildings",
-       "href": "/locations/webster"
+       "href": "/service-areas/webster"
       },
       {
        "label": "Storm Damage Repair Patterns After Worcester Nor'easters",
@@ -1322,23 +1322,23 @@
      "related": [
       {
        "label": "Route 146 Corridor and Mill-Town Roofs in Uxbridge",
-       "href": "/locations/uxbridge"
+       "href": "/service-areas/uxbridge"
       },
       {
        "label": "Flat-Roof Work on Webster's Converted Mill Buildings",
-       "href": "/locations/webster"
+       "href": "/service-areas/webster"
       },
       {
        "label": "Roofing West Boylston's Route 12 Retail and Public Facility Buildings",
-       "href": "/locations/west-boylston"
+       "href": "/service-areas/west-boylston"
       },
       {
        "label": "Roofing Research Park Buildings Near the Mass Pike Interchange",
-       "href": "/locations/westborough"
+       "href": "/service-areas/westborough"
       },
       {
        "label": "Large-Format Warehouse Roofs Along Westminster's Route 2 Corridor",
-       "href": "/locations/westminster"
+       "href": "/service-areas/westminster"
       },
       {
        "label": "Acrylic Coatings for Worcester's Metal Roof Restoration Jobs",
@@ -1384,23 +1384,23 @@
      "related": [
       {
        "label": "Roofing Spencer's Route 9 Storefronts and Shop Buildings",
-       "href": "/locations/spencer"
+       "href": "/service-areas/spencer"
       },
       {
        "label": "Roofing for Sterling's Light-Industrial Shops and Farm Buildings",
-       "href": "/locations/sterling"
+       "href": "/service-areas/sterling"
       },
       {
        "label": "Hospitality Roofs at the Sturbridge Pike Interchange",
-       "href": "/locations/sturbridge"
+       "href": "/service-areas/sturbridge"
       },
       {
        "label": "Roofing Sutton's Route 146 Business Park Buildings",
-       "href": "/locations/sutton"
+       "href": "/service-areas/sutton"
       },
       {
        "label": "Route 146 Corridor and Mill-Town Roofs in Uxbridge",
-       "href": "/locations/uxbridge"
+       "href": "/service-areas/uxbridge"
       },
       {
        "label": "Standing Seam Panels for Steep-Slope Snow Shedding in Worcester",
@@ -1450,23 +1450,23 @@
      "related": [
       {
        "label": "Roof Work for Holden's Main Street and Office Buildings",
-       "href": "/locations/holden"
+       "href": "/service-areas/holden"
       },
       {
        "label": "From Fab-Building Roofs to Brewery Rooftops in Hudson",
-       "href": "/locations/hudson"
+       "href": "/service-areas/hudson"
       },
       {
        "label": "Roofing Budgets for Lancaster's Route 2 and Devens-Edge Buildings",
-       "href": "/locations/lancaster"
+       "href": "/service-areas/lancaster"
       },
       {
        "label": "Roofing Leicester's Route 9 Businesses and Repurposed Campus Buildings",
-       "href": "/locations/leicester"
+       "href": "/service-areas/leicester"
       },
       {
        "label": "Roofing Lunenburg's Route 2A Retail and Lakeside Buildings",
-       "href": "/locations/lunenburg"
+       "href": "/service-areas/lunenburg"
       },
       {
        "label": "R-Panel Metal Roofing for Worcester's Industrial and Distribution Buildings",
@@ -1516,23 +1516,23 @@
      "related": [
       {
        "label": "Roofing Spencer's Route 9 Storefronts and Shop Buildings",
-       "href": "/locations/spencer"
+       "href": "/service-areas/spencer"
       },
       {
        "label": "Roofing for Sterling's Light-Industrial Shops and Farm Buildings",
-       "href": "/locations/sterling"
+       "href": "/service-areas/sterling"
       },
       {
        "label": "Hospitality Roofs at the Sturbridge Pike Interchange",
-       "href": "/locations/sturbridge"
+       "href": "/service-areas/sturbridge"
       },
       {
        "label": "Roofing Sutton's Route 146 Business Park Buildings",
-       "href": "/locations/sutton"
+       "href": "/service-areas/sutton"
       },
       {
        "label": "Route 146 Corridor and Mill-Town Roofs in Uxbridge",
-       "href": "/locations/uxbridge"
+       "href": "/service-areas/uxbridge"
       },
       {
        "label": "Built-Up Roofing on Worcester's Legacy Campus and Mill Buildings",
@@ -1582,23 +1582,23 @@
      "related": [
       {
        "label": "Roofing Budgets for Lancaster's Route 2 and Devens-Edge Buildings",
-       "href": "/locations/lancaster"
+       "href": "/service-areas/lancaster"
       },
       {
        "label": "Roofing Leicester's Route 9 Businesses and Repurposed Campus Buildings",
-       "href": "/locations/leicester"
+       "href": "/service-areas/leicester"
       },
       {
        "label": "Roofing Leominster's Plastics Plants and Hospital Campus",
-       "href": "/locations/leominster"
+       "href": "/service-areas/leominster"
       },
       {
        "label": "Roofing Lunenburg's Route 2A Retail and Lakeside Buildings",
-       "href": "/locations/lunenburg"
+       "href": "/service-areas/lunenburg"
       },
       {
        "label": "Open-Air Retail Roofs Near the Mass Pike in Millbury",
-       "href": "/locations/millbury"
+       "href": "/service-areas/millbury"
       },
       {
        "label": "Emergency Tarp and Dry-In Response After Worcester Storms",
@@ -1648,23 +1648,23 @@
      "related": [
       {
        "label": "Roofing Leominster's Plastics Plants and Hospital Campus",
-       "href": "/locations/leominster"
+       "href": "/service-areas/leominster"
       },
       {
        "label": "Roofing Lunenburg's Route 2A Retail and Lakeside Buildings",
-       "href": "/locations/lunenburg"
+       "href": "/service-areas/lunenburg"
       },
       {
        "label": "Sizing Roof Budgets for Marlborough's Campus and Distribution Buildings",
-       "href": "/locations/marlborough"
+       "href": "/service-areas/marlborough"
       },
       {
        "label": "Open-Air Retail Roofs Near the Mass Pike in Millbury",
-       "href": "/locations/millbury"
+       "href": "/service-areas/millbury"
       },
       {
        "label": "Distribution Roofs and Standing Seam Metal Along Route 20",
-       "href": "/locations/northborough"
+       "href": "/service-areas/northborough"
       },
       {
        "label": "PVC Membrane for Grease, Chemical, and Lab Exhaust Exposure",
@@ -1714,23 +1714,23 @@
      "related": [
       {
        "label": "Roof Drainage and Watershed Rules in Clinton",
-       "href": "/locations/clinton"
+       "href": "/service-areas/clinton"
       },
       {
        "label": "Roof Service for Douglas's Small Commercial Buildings",
-       "href": "/locations/douglas"
+       "href": "/service-areas/douglas"
       },
       {
        "label": "Roof Work for Dudley's Campus and Mill-Village Buildings",
-       "href": "/locations/dudley"
+       "href": "/service-areas/dudley"
       },
       {
        "label": "Roofing the Mill Buildings Along the Nashua River",
-       "href": "/locations/fitchburg"
+       "href": "/service-areas/fitchburg"
       },
       {
        "label": "Roofing Gardner's Furniture-Era Buildings and Route 68 Plazas",
-       "href": "/locations/gardner"
+       "href": "/service-areas/gardner"
       },
       {
        "label": "Roof Inspection Scheduling for Worcester's Winter Cycle",
@@ -1776,23 +1776,23 @@
      "related": [
       {
        "label": "Roofing Leominster's Plastics Plants and Hospital Campus",
-       "href": "/locations/leominster"
+       "href": "/service-areas/leominster"
       },
       {
        "label": "Roofing Lunenburg's Route 2A Retail and Lakeside Buildings",
-       "href": "/locations/lunenburg"
+       "href": "/service-areas/lunenburg"
       },
       {
        "label": "Sizing Roof Budgets for Marlborough's Campus and Distribution Buildings",
-       "href": "/locations/marlborough"
+       "href": "/service-areas/marlborough"
       },
       {
        "label": "Open-Air Retail Roofs Near the Mass Pike in Millbury",
-       "href": "/locations/millbury"
+       "href": "/service-areas/millbury"
       },
       {
        "label": "Distribution Roofs and Standing Seam Metal Along Route 20",
-       "href": "/locations/northborough"
+       "href": "/service-areas/northborough"
       },
       {
        "label": "Tracking Down Roof Leaks in Worcester's Freeze-Thaw Winters",
@@ -1838,23 +1838,23 @@
      "related": [
       {
        "label": "Roofing Leicester's Route 9 Businesses and Repurposed Campus Buildings",
-       "href": "/locations/leicester"
+       "href": "/service-areas/leicester"
       },
       {
        "label": "Roofing Leominster's Plastics Plants and Hospital Campus",
-       "href": "/locations/leominster"
+       "href": "/service-areas/leominster"
       },
       {
        "label": "Roofing Lunenburg's Route 2A Retail and Lakeside Buildings",
-       "href": "/locations/lunenburg"
+       "href": "/service-areas/lunenburg"
       },
       {
        "label": "Sizing Roof Budgets for Marlborough's Campus and Distribution Buildings",
-       "href": "/locations/marlborough"
+       "href": "/service-areas/marlborough"
       },
       {
        "label": "Open-Air Retail Roofs Near the Mass Pike in Millbury",
-       "href": "/locations/millbury"
+       "href": "/service-areas/millbury"
       },
       {
        "label": "Tracking Down Roof Leaks in Worcester's Freeze-Thaw Winters",
@@ -1900,23 +1900,23 @@
      "related": [
       {
        "label": "Roofing Small Offices and Orchard Buildings Near Bolton's I-495 Interchange",
-       "href": "/locations/bolton"
+       "href": "/service-areas/bolton"
       },
       {
        "label": "Roof Estimates for Boylston's Small Office and Institutional Buildings",
-       "href": "/locations/boylston"
+       "href": "/service-areas/boylston"
       },
       {
        "label": "Beverage-Production Roofs and Turnpike Frontage in Charlton",
-       "href": "/locations/charlton"
+       "href": "/service-areas/charlton"
       },
       {
        "label": "Roof Drainage and Watershed Rules in Clinton",
-       "href": "/locations/clinton"
+       "href": "/service-areas/clinton"
       },
       {
        "label": "Roof Service for Douglas's Small Commercial Buildings",
-       "href": "/locations/douglas"
+       "href": "/service-areas/douglas"
       },
       {
        "label": "Preventive Maintenance Contracts That Fit a Worcester Winter Calendar",
@@ -1962,23 +1962,23 @@
      "related": [
       {
        "label": "Roof Estimates for Boylston's Small Office and Institutional Buildings",
-       "href": "/locations/boylston"
+       "href": "/service-areas/boylston"
       },
       {
        "label": "Beverage-Production Roofs and Turnpike Frontage in Charlton",
-       "href": "/locations/charlton"
+       "href": "/service-areas/charlton"
       },
       {
        "label": "Roof Drainage and Watershed Rules in Clinton",
-       "href": "/locations/clinton"
+       "href": "/service-areas/clinton"
       },
       {
        "label": "Roof Service for Douglas's Small Commercial Buildings",
-       "href": "/locations/douglas"
+       "href": "/service-areas/douglas"
       },
       {
        "label": "Roof Work for Dudley's Campus and Mill-Village Buildings",
-       "href": "/locations/dudley"
+       "href": "/service-areas/dudley"
       },
       {
        "label": "Acrylic Coatings for Worcester's Metal Roof Restoration Jobs",
@@ -2024,23 +2024,23 @@
      "related": [
       {
        "label": "Roof Work for Dudley's Campus and Mill-Village Buildings",
-       "href": "/locations/dudley"
+       "href": "/service-areas/dudley"
       },
       {
        "label": "Roofing the Mill Buildings Along the Nashua River",
-       "href": "/locations/fitchburg"
+       "href": "/service-areas/fitchburg"
       },
       {
        "label": "Roofing Gardner's Furniture-Era Buildings and Route 68 Plazas",
-       "href": "/locations/gardner"
+       "href": "/service-areas/gardner"
       },
       {
        "label": "Roofing Around Grafton's Veterinary Campus and Rail-Driven Growth",
-       "href": "/locations/grafton"
+       "href": "/service-areas/grafton"
       },
       {
        "label": "Roofing Orchard Buildings and Small Offices at Harvard's Devens Edge",
-       "href": "/locations/harvard"
+       "href": "/service-areas/harvard"
       },
       {
        "label": "Edge Metal, Coping, and Gutter Details for Worcester Winters",
@@ -2090,23 +2090,23 @@
      "related": [
       {
        "label": "Roofing Southborough's Route 9 Corporate Office Buildings",
-       "href": "/locations/southborough"
+       "href": "/service-areas/southborough"
       },
       {
        "label": "Sawtooth Roofs and Subdivided Industrial Space in Southbridge",
-       "href": "/locations/southbridge"
+       "href": "/service-areas/southbridge"
       },
       {
        "label": "Roofing Spencer's Route 9 Storefronts and Shop Buildings",
-       "href": "/locations/spencer"
+       "href": "/service-areas/spencer"
       },
       {
        "label": "Roofing for Sterling's Light-Industrial Shops and Farm Buildings",
-       "href": "/locations/sterling"
+       "href": "/service-areas/sterling"
       },
       {
        "label": "Hospitality Roofs at the Sturbridge Pike Interchange",
-       "href": "/locations/sturbridge"
+       "href": "/service-areas/sturbridge"
       },
       {
        "label": "Tracking Down Roof Leaks in Worcester's Freeze-Thaw Winters",
@@ -2152,23 +2152,23 @@
      "related": [
       {
        "label": "Roofing Southborough's Route 9 Corporate Office Buildings",
-       "href": "/locations/southborough"
+       "href": "/service-areas/southborough"
       },
       {
        "label": "Sawtooth Roofs and Subdivided Industrial Space in Southbridge",
-       "href": "/locations/southbridge"
+       "href": "/service-areas/southbridge"
       },
       {
        "label": "Roofing Spencer's Route 9 Storefronts and Shop Buildings",
-       "href": "/locations/spencer"
+       "href": "/service-areas/spencer"
       },
       {
        "label": "Roofing for Sterling's Light-Industrial Shops and Farm Buildings",
-       "href": "/locations/sterling"
+       "href": "/service-areas/sterling"
       },
       {
        "label": "Hospitality Roofs at the Sturbridge Pike Interchange",
-       "href": "/locations/sturbridge"
+       "href": "/service-areas/sturbridge"
       },
       {
        "label": "Preventive Maintenance Contracts That Fit a Worcester Winter Calendar",
@@ -2214,23 +2214,23 @@
      "related": [
       {
        "label": "Elevated Snow Load Roofing Near Wachusett Mountain",
-       "href": "/locations/princeton"
+       "href": "/service-areas/princeton"
       },
       {
        "label": "Small-Building Roof Pricing for Rutland's Municipal and Professional Stock",
-       "href": "/locations/rutland"
+       "href": "/service-areas/rutland"
       },
       {
        "label": "Retail Strips and Medical Offices Along the Route 9 Corridor",
-       "href": "/locations/shrewsbury"
+       "href": "/service-areas/shrewsbury"
       },
       {
        "label": "Roofing Southborough's Route 9 Corporate Office Buildings",
-       "href": "/locations/southborough"
+       "href": "/service-areas/southborough"
       },
       {
        "label": "Sawtooth Roofs and Subdivided Industrial Space in Southbridge",
-       "href": "/locations/southbridge"
+       "href": "/service-areas/southbridge"
       },
       {
        "label": "Why EPDM Still Gets Specified on Worcester's Mill Conversions",
@@ -2280,23 +2280,23 @@
      "related": [
       {
        "label": "Sizing Roof Budgets for Marlborough's Campus and Distribution Buildings",
-       "href": "/locations/marlborough"
+       "href": "/service-areas/marlborough"
       },
       {
        "label": "Open-Air Retail Roofs Near the Mass Pike in Millbury",
-       "href": "/locations/millbury"
+       "href": "/service-areas/millbury"
       },
       {
        "label": "Distribution Roofs and Standing Seam Metal Along Route 20",
-       "href": "/locations/northborough"
+       "href": "/service-areas/northborough"
       },
       {
        "label": "Insulation Precision for Oxford's Manufacturing Buildings",
-       "href": "/locations/oxford"
+       "href": "/service-areas/oxford"
       },
       {
        "label": "Institutional and Small-Business Roof Budgets for Paxton",
-       "href": "/locations/paxton"
+       "href": "/service-areas/paxton"
       },
       {
        "label": "TPO Membrane Specs for Worcester's Hospital and Campus Roofs",
@@ -2346,23 +2346,23 @@
      "related": [
       {
        "label": "Roofing Budgets for Lancaster's Route 2 and Devens-Edge Buildings",
-       "href": "/locations/lancaster"
+       "href": "/service-areas/lancaster"
       },
       {
        "label": "Roofing Leicester's Route 9 Businesses and Repurposed Campus Buildings",
-       "href": "/locations/leicester"
+       "href": "/service-areas/leicester"
       },
       {
        "label": "Roofing Leominster's Plastics Plants and Hospital Campus",
-       "href": "/locations/leominster"
+       "href": "/service-areas/leominster"
       },
       {
        "label": "Roofing Lunenburg's Route 2A Retail and Lakeside Buildings",
-       "href": "/locations/lunenburg"
+       "href": "/service-areas/lunenburg"
       },
       {
        "label": "Sizing Roof Budgets for Marlborough's Campus and Distribution Buildings",
-       "href": "/locations/marlborough"
+       "href": "/service-areas/marlborough"
       },
       {
        "label": "Tracking Down Roof Leaks in Worcester's Freeze-Thaw Winters",
@@ -2408,23 +2408,23 @@
      "related": [
       {
        "label": "Hospitality Roofs at the Sturbridge Pike Interchange",
-       "href": "/locations/sturbridge"
+       "href": "/service-areas/sturbridge"
       },
       {
        "label": "Roofing Sutton's Route 146 Business Park Buildings",
-       "href": "/locations/sutton"
+       "href": "/service-areas/sutton"
       },
       {
        "label": "Route 146 Corridor and Mill-Town Roofs in Uxbridge",
-       "href": "/locations/uxbridge"
+       "href": "/service-areas/uxbridge"
       },
       {
        "label": "Flat-Roof Work on Webster's Converted Mill Buildings",
-       "href": "/locations/webster"
+       "href": "/service-areas/webster"
       },
       {
        "label": "Roofing West Boylston's Route 12 Retail and Public Facility Buildings",
-       "href": "/locations/west-boylston"
+       "href": "/service-areas/west-boylston"
       },
       {
        "label": "Standing Seam Panels for Steep-Slope Snow Shedding in Worcester",
@@ -2658,7 +2658,7 @@
       },
       {
        "label": "Roof Work for Dudley's Campus and Mill-Village Buildings",
-       "href": "/locations/dudley"
+       "href": "/service-areas/dudley"
       },
       {
        "label": "A Leak Over One Storefront Rarely Stays That Tenant's Problem",
@@ -2720,7 +2720,7 @@
       },
       {
        "label": "Roofing West Boylston's Route 12 Retail and Public Facility Buildings",
-       "href": "/locations/west-boylston"
+       "href": "/service-areas/west-boylston"
       },
       {
        "label": "Roofing the Buildings That Keep Trucks Moving Through the I-290 Interchange",
@@ -2774,7 +2774,7 @@
       },
       {
        "label": "Big-Box and Logistics Roofs at the I-90/I-290 Junction",
-       "href": "/locations/auburn"
+       "href": "/service-areas/auburn"
       },
       {
        "label": "Roofing a Building Where Every Ceiling Tile Is Someone's Exam Room",
@@ -2832,7 +2832,7 @@
       },
       {
        "label": "Roofing Gardner's Furniture-Era Buildings and Route 68 Plazas",
-       "href": "/locations/gardner"
+       "href": "/service-areas/gardner"
       },
       {
        "label": "A Building That's Occupied Around the Clock by People Who Value a Quiet Afternoon",
@@ -2898,7 +2898,7 @@
       },
       {
        "label": "Roofing the Mill Buildings Along the Nashua River",
-       "href": "/locations/fitchburg"
+       "href": "/service-areas/fitchburg"
       },
       {
        "label": "Reroofing a Building That Can't Close Its Doors",
@@ -2960,7 +2960,7 @@
       },
       {
        "label": "Roofing for Sterling's Light-Industrial Shops and Farm Buildings",
-       "href": "/locations/sterling"
+       "href": "/service-areas/sterling"
       },
       {
        "label": "Reroofing a Business Park Without Emptying the Parking Lot",
@@ -3018,7 +3018,7 @@
       },
       {
        "label": "Roof Drainage and Watershed Rules in Clinton",
-       "href": "/locations/clinton"
+       "href": "/service-areas/clinton"
       },
       {
        "label": "Reroofing a Business Park Without Emptying the Parking Lot",
@@ -3084,7 +3084,7 @@
       },
       {
        "label": "Roofing Small Offices and Orchard Buildings Near Bolton's I-495 Interchange",
-       "href": "/locations/bolton"
+       "href": "/service-areas/bolton"
       },
       {
        "label": "Roofing the Buildings That Keep Trucks Moving Through the I-290 Interchange",
@@ -3142,7 +3142,7 @@
       },
       {
        "label": "Sizing Roof Budgets for Marlborough's Campus and Distribution Buildings",
-       "href": "/locations/marlborough"
+       "href": "/service-areas/marlborough"
       },
       {
        "label": "Reroofing a Business Park Without Emptying the Parking Lot",
@@ -3204,7 +3204,7 @@
       },
       {
        "label": "From Fab-Building Roofs to Brewery Rooftops in Hudson",
-       "href": "/locations/hudson"
+       "href": "/service-areas/hudson"
       },
       {
        "label": "A Building That's Occupied Around the Clock by People Who Value a Quiet Afternoon",
@@ -3266,7 +3266,7 @@
       },
       {
        "label": "Sizing Roof Budgets for Marlborough's Campus and Distribution Buildings",
-       "href": "/locations/marlborough"
+       "href": "/service-areas/marlborough"
       },
       {
        "label": "A Building That's Occupied Around the Clock by People Who Value a Quiet Afternoon",
@@ -3324,7 +3324,7 @@
       },
       {
        "label": "Roofing Sutton's Route 146 Business Park Buildings",
-       "href": "/locations/sutton"
+       "href": "/service-areas/sutton"
       },
       {
        "label": "Working the Summer Window on a Campus That Never Fully Empties",
@@ -3378,7 +3378,7 @@
       },
       {
        "label": "Roofing Lunenburg's Route 2A Retail and Lakeside Buildings",
-       "href": "/locations/lunenburg"
+       "href": "/service-areas/lunenburg"
       },
       {
        "label": "Roofing Occupied Apartments Without a Vacant Unit to Fall Back On",
@@ -3436,7 +3436,7 @@
       },
       {
        "label": "Hospitality Roofs at the Sturbridge Pike Interchange",
-       "href": "/locations/sturbridge"
+       "href": "/service-areas/sturbridge"
       },
       {
        "label": "Roofing Occupied Apartments Without a Vacant Unit to Fall Back On",
@@ -3498,7 +3498,7 @@
       },
       {
        "label": "Roof Service for Douglas's Small Commercial Buildings",
-       "href": "/locations/douglas"
+       "href": "/service-areas/douglas"
       },
       {
        "label": "Reroofing a Building That Can't Close Its Doors",
@@ -3552,7 +3552,7 @@
       },
       {
        "label": "Sawtooth Roofs and Subdivided Industrial Space in Southbridge",
-       "href": "/locations/southbridge"
+       "href": "/service-areas/southbridge"
       },
       {
        "label": "A Building That's Occupied Around the Clock by People Who Value a Quiet Afternoon",
@@ -3602,7 +3602,7 @@
       },
       {
        "label": "Roofing Spencer's Route 9 Storefronts and Shop Buildings",
-       "href": "/locations/spencer"
+       "href": "/service-areas/spencer"
       },
       {
        "label": "Reroofing a Building That Can't Close Its Doors",
@@ -3664,7 +3664,7 @@
       },
       {
        "label": "Roofing Research Park Buildings Near the Mass Pike Interchange",
-       "href": "/locations/westborough"
+       "href": "/service-areas/westborough"
       },
       {
        "label": "Reroofing a Business Park Without Emptying the Parking Lot",
@@ -3726,7 +3726,7 @@
       },
       {
        "label": "Roofing Sutton's Route 146 Business Park Buildings",
-       "href": "/locations/sutton"
+       "href": "/service-areas/sutton"
       },
       {
        "label": "A Building That's Occupied Around the Clock by People Who Value a Quiet Afternoon",
@@ -3800,7 +3800,7 @@
       },
       {
        "label": "Roofing Budgets for Lancaster's Route 2 and Devens-Edge Buildings",
-       "href": "/locations/lancaster"
+       "href": "/service-areas/lancaster"
       },
       {
        "label": "Roofing the Buildings That Keep Trucks Moving Through the I-290 Interchange",
@@ -3872,7 +3872,7 @@
       },
       {
        "label": "Roofing Budgets for Lancaster's Route 2 and Devens-Edge Buildings",
-       "href": "/locations/lancaster"
+       "href": "/service-areas/lancaster"
       },
       {
        "label": "Working the Summer Window on a Campus That Never Fully Empties",
@@ -3938,7 +3938,7 @@
       },
       {
        "label": "Retail Strips and Medical Offices Along the Route 9 Corridor",
-       "href": "/locations/shrewsbury"
+       "href": "/service-areas/shrewsbury"
       },
       {
        "label": "Roofing Over a Lab That Can't Tolerate Contamination",
@@ -4004,7 +4004,7 @@
       },
       {
        "label": "Small-Building Roof Pricing for Rutland's Municipal and Professional Stock",
-       "href": "/locations/rutland"
+       "href": "/service-areas/rutland"
       },
       {
        "label": "Roofing Occupied Apartments Without a Vacant Unit to Fall Back On",
@@ -4070,7 +4070,7 @@
       },
       {
        "label": "Roofing Spencer's Route 9 Storefronts and Shop Buildings",
-       "href": "/locations/spencer"
+       "href": "/service-areas/spencer"
       },
       {
        "label": "Roofing Occupied Apartments Without a Vacant Unit to Fall Back On",
@@ -4136,7 +4136,7 @@
       },
       {
        "label": "Roof Service for Douglas's Small Commercial Buildings",
-       "href": "/locations/douglas"
+       "href": "/service-areas/douglas"
       },
       {
        "label": "Roofing the Buildings That Keep Trucks Moving Through the I-290 Interchange",
@@ -4198,7 +4198,7 @@
       },
       {
        "label": "Roofing Sutton's Route 146 Business Park Buildings",
-       "href": "/locations/sutton"
+       "href": "/service-areas/sutton"
       },
       {
        "label": "Ten Weeks to Finish What a School Building Needs Fixed",
@@ -4264,7 +4264,7 @@
       },
       {
        "label": "Big-Box and Logistics Roofs at the I-90/I-290 Junction",
-       "href": "/locations/auburn"
+       "href": "/service-areas/auburn"
       },
       {
        "label": "One Roof, Three Different Businesses Underneath It",
@@ -4330,7 +4330,7 @@
       },
       {
        "label": "Roofing Gardner's Furniture-Era Buildings and Route 68 Plazas",
-       "href": "/locations/gardner"
+       "href": "/service-areas/gardner"
       },
       {
        "label": "Reroofing a Building That Can't Close Its Doors",
@@ -4398,7 +4398,7 @@
       },
       {
        "label": "Roofing Research Park Buildings Near the Mass Pike Interchange",
-       "href": "/locations/westborough"
+       "href": "/service-areas/westborough"
       },
       {
        "label": "Reroofing a Building That Can't Close Its Doors",
@@ -4460,7 +4460,7 @@
       },
       {
        "label": "Roof Estimates for Boylston's Small Office and Institutional Buildings",
-       "href": "/locations/boylston"
+       "href": "/service-areas/boylston"
       },
       {
        "label": "Roofing the Buildings That Keep Trucks Moving Through the I-290 Interchange",
@@ -4526,7 +4526,7 @@
       },
       {
        "label": "Roofing the Whitin Machine Works Mill Complex",
-       "href": "/locations/whitinsville"
+       "href": "/service-areas/whitinsville"
       },
       {
        "label": "Big Flat Fields, Old Structures, and a Snow Load That Doesn't Forgive Guesswork",
@@ -4588,7 +4588,7 @@
       },
       {
        "label": "Flat-Roof Work on Webster's Converted Mill Buildings",
-       "href": "/locations/webster"
+       "href": "/service-areas/webster"
       },
       {
        "label": "Reroofing a Business Park Without Emptying the Parking Lot",
@@ -4654,7 +4654,7 @@
       },
       {
        "label": "Flat-Roof Work on Webster's Converted Mill Buildings",
-       "href": "/locations/webster"
+       "href": "/service-areas/webster"
       },
       {
        "label": "Reroofing a Business Park Without Emptying the Parking Lot",
@@ -4716,7 +4716,7 @@
       },
       {
        "label": "Big-Box and Logistics Roofs at the I-90/I-290 Junction",
-       "href": "/locations/auburn"
+       "href": "/service-areas/auburn"
       },
       {
        "label": "Working the Summer Window on a Campus That Never Fully Empties",
@@ -4778,7 +4778,7 @@
       },
       {
        "label": "Roof Service for Douglas's Small Commercial Buildings",
-       "href": "/locations/douglas"
+       "href": "/service-areas/douglas"
       },
       {
        "label": "One Roof, Three Different Businesses Underneath It",
@@ -4844,7 +4844,7 @@
       },
       {
        "label": "Hospitality Roofs at the Sturbridge Pike Interchange",
-       "href": "/locations/sturbridge"
+       "href": "/service-areas/sturbridge"
       },
       {
        "label": "A Building That's Occupied Around the Clock by People Who Value a Quiet Afternoon",
@@ -4916,7 +4916,7 @@
       },
       {
        "label": "Flat-Roof Work on Webster's Converted Mill Buildings",
-       "href": "/locations/webster"
+       "href": "/service-areas/webster"
       },
       {
        "label": "Roofing for Manufacturing Plants Around Worcester",
@@ -4962,7 +4962,7 @@
       },
       {
        "label": "Roof Service for Douglas's Small Commercial Buildings",
-       "href": "/locations/douglas"
+       "href": "/service-areas/douglas"
       },
       {
        "label": "Roofing for Worcester's College Campuses and Schools",
@@ -5008,7 +5008,7 @@
       },
       {
        "label": "Hospitality Roofs at the Sturbridge Pike Interchange",
-       "href": "/locations/sturbridge"
+       "href": "/service-areas/sturbridge"
       },
       {
        "label": "Roofing for Multi-Location Retail Around Worcester",
@@ -5054,7 +5054,7 @@
       },
       {
        "label": "Route 146 Corridor and Mill-Town Roofs in Uxbridge",
-       "href": "/locations/uxbridge"
+       "href": "/service-areas/uxbridge"
       },
       {
        "label": "Roofing for Multi-Location Retail Around Worcester",
@@ -5100,7 +5100,7 @@
       },
       {
        "label": "Beverage-Production Roofs and Turnpike Frontage in Charlton",
-       "href": "/locations/charlton"
+       "href": "/service-areas/charlton"
       },
       {
        "label": "Roofing for Multi-Location Retail Around Worcester",
@@ -5146,7 +5146,7 @@
       },
       {
        "label": "Flat-Roof Work on Webster's Converted Mill Buildings",
-       "href": "/locations/webster"
+       "href": "/service-areas/webster"
       },
       {
        "label": "Roofing for Manufacturing Plants Around Worcester",
@@ -5192,7 +5192,7 @@
       },
       {
        "label": "Roof Drainage and Watershed Rules in Clinton",
-       "href": "/locations/clinton"
+       "href": "/service-areas/clinton"
       },
       {
        "label": "Storm Damage Documentation and Roof Restoration in Worcester",
@@ -5238,7 +5238,7 @@
       },
       {
        "label": "Roofing Gardner's Furniture-Era Buildings and Route 68 Plazas",
-       "href": "/locations/gardner"
+       "href": "/service-areas/gardner"
       },
       {
        "label": "Roofing for Multi-Location Retail Around Worcester",
@@ -5284,7 +5284,7 @@
       },
       {
        "label": "Institutional and Small-Business Roof Budgets for Paxton",
-       "href": "/locations/paxton"
+       "href": "/service-areas/paxton"
       },
       {
        "label": "Roofing Subcontract Work for Worcester General Contractors",
@@ -5330,7 +5330,7 @@
       },
       {
        "label": "From Fab-Building Roofs to Brewery Rooftops in Hudson",
-       "href": "/locations/hudson"
+       "href": "/service-areas/hudson"
       },
       {
        "label": "Roofing for Municipal Buildings Across Central Massachusetts",
@@ -5376,7 +5376,7 @@
       },
       {
        "label": "Hospitality Roofs at the Sturbridge Pike Interchange",
-       "href": "/locations/sturbridge"
+       "href": "/service-areas/sturbridge"
       },
       {
        "label": "Roofing Subcontract Work for Worcester General Contractors",
@@ -5422,7 +5422,7 @@
       },
       {
        "label": "Small-Building Roof Pricing for Rutland's Municipal and Professional Stock",
-       "href": "/locations/rutland"
+       "href": "/service-areas/rutland"
       },
       {
        "label": "Roofing for Municipal Buildings Across Central Massachusetts",
@@ -5474,7 +5474,7 @@
       },
       {
        "label": "Route 146 Corridor and Mill-Town Roofs in Uxbridge",
-       "href": "/locations/uxbridge"
+       "href": "/service-areas/uxbridge"
       },
       {
        "label": "Roofing Occupied Apartments Without a Vacant Unit to Fall Back On",
@@ -5520,7 +5520,7 @@
       },
       {
        "label": "Roof Work for Holden's Main Street and Office Buildings",
-       "href": "/locations/holden"
+       "href": "/service-areas/holden"
       },
       {
        "label": "Working the Summer Window on a Campus That Never Fully Empties",
@@ -5566,7 +5566,7 @@
       },
       {
        "label": "Beverage-Production Roofs and Turnpike Frontage in Charlton",
-       "href": "/locations/charlton"
+       "href": "/service-areas/charlton"
       },
       {
        "label": "Roofing the Buildings That Keep Trucks Moving Through the I-290 Interchange",
@@ -5612,7 +5612,7 @@
       },
       {
        "label": "Roofing Spencer's Route 9 Storefronts and Shop Buildings",
-       "href": "/locations/spencer"
+       "href": "/service-areas/spencer"
       },
       {
        "label": "Roofing Occupied Apartments Without a Vacant Unit to Fall Back On",
@@ -5658,7 +5658,7 @@
       },
       {
        "label": "Institutional and Small-Business Roof Budgets for Paxton",
-       "href": "/locations/paxton"
+       "href": "/service-areas/paxton"
       },
       {
        "label": "Reroofing a Building That Can't Close Its Doors",
@@ -5704,7 +5704,7 @@
       },
       {
        "label": "Roofing the Whitin Machine Works Mill Complex",
-       "href": "/locations/whitinsville"
+       "href": "/service-areas/whitinsville"
       },
       {
        "label": "A Leak Over One Storefront Rarely Stays That Tenant's Problem",
