@@ -4282,3 +4282,47 @@ html.open {
     max-width: 130px;
   }
 }
+
+/* Taste fix: the image-panel cards had no always-on .panel-title element,
+   so the .panel-overlay opacity:0 resting state (set earlier in this file)
+   left every listing card with no visible caption until :hover. Restore a
+   compact always-visible bottom strip (matching the mobile layout below
+   768px) and keep the icon/details/see-more-link richer view for hover
+   only, appended last so it wins the cascade over the earlier same-
+   specificity declarations above. */
+@media only screen and (min-width: 768px) {
+  .panel-wrapper .panel-overlay {
+    height: 34px;
+    top: auto;
+    bottom: 0;
+    opacity: 1;
+  }
+  .panel-wrapper .panel-overlay .panel-icon,
+  .panel-wrapper .panel-overlay .panel-details,
+  .panel-wrapper .panel-overlay .see-more-link {
+    display: none;
+  }
+  .panel-wrapper .panel-overlay h3 {
+    font-size: 12px;
+    line-height: 12px;
+    margin-top: 2px;
+    margin-bottom: 0;
+  }
+  .panel-wrapper .image-panel:hover > .panel-overlay {
+    height: 100%;
+    top: 0;
+  }
+  .panel-wrapper .image-panel:hover > .panel-overlay .panel-icon {
+    display: inline-block;
+  }
+  .panel-wrapper .image-panel:hover > .panel-overlay .panel-details,
+  .panel-wrapper .image-panel:hover > .panel-overlay .see-more-link {
+    display: block;
+  }
+  .panel-wrapper .image-panel:hover > .panel-overlay h3 {
+    font-size: 16px;
+    line-height: 16px;
+    margin-top: 0;
+    margin-bottom: 7px;
+  }
+}

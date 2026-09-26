@@ -811,3 +811,24 @@
     display: none;
   }
 }
+
+/* Taste fix: the static gallery grid keeps the donor's dead AJAX-loader
+   markup (#project_content, #loadmore, #gallery-loader) as direct children
+   of the CSS-grid .panel-wrapper.featured, so each one became an extra
+   empty grid cell mixed in with the real photo cards (a blank tile, plus
+   a "Show more" button rendered as if it were a card). Nothing populates
+   or drives them on this static build, so remove them from the grid flow. */
+.panel-wrapper.featured #project_content,
+.panel-wrapper.featured #loadmore,
+.panel-wrapper.featured #gallery-loader {
+  display: none !important;
+}
+
+/* The clearfix ::before/::after (display:table, for float-clearing) became
+   an extra grid item once .panel-wrapper.featured was switched to
+   display:grid above, shifting every real photo card over by one empty
+   cell. Clearfix has no purpose in a grid container, so drop it here. */
+.panel-wrapper.featured::before,
+.panel-wrapper.featured::after {
+  display: none !important;
+}
