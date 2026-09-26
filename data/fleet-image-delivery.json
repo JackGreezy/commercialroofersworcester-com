@@ -1,0 +1,136 @@
+{
+  "domain": "commercialroofersworcester.com",
+  "images": {
+    "/images/service-areas/commercial-roofers-worcester-ma-01.webp": {
+      "width": 1280,
+      "height": 637,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/1582d7212686bd86.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/0ebbca8da223e400.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/b75c7a48c4151024.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/images/project-types/distribution-center-roofing-commercial-roofers-worcester-ma.webp": {
+      "width": 2048,
+      "height": 1365,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/34e7f20ca37245b3.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/f7378697157769d8.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/2a7bc8a0afb716a7.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/images/roof-systems/tpo-60-mil-commercial-roofers-worcester-ma.webp": {
+      "width": 1200,
+      "height": 750,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/ac885aa88189bdb8.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/b160a614b5a3ca80.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/ae46ce96792e4511.webp",
+          "width": 1200
+        }
+      ]
+    },
+    "/images/project-types/warehouse-roofing-commercial-roofers-worcester-ma.webp": {
+      "width": 2048,
+      "height": 1152,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/6d011259bcc28dee.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/7b3f76d5fa2f8eba.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/24a7f9c515f681a5.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/images/project-types/medical-office-building-roofing-commercial-roofers-worcester-ma.webp": {
+      "width": 2000,
+      "height": 1113,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/115aa55629eb50b9.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/f8b91a53509a40a6.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/a8f98c5df3f1eccc.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/images/industries/manufacturing-operators-commercial-roofers-worcester-ma.webp": {
+      "width": 1400,
+      "height": 788,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/dd9cab1c9a94a1f3.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/dba86224fd2d867f.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/93fa56f63f1f454d.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/images/brand/logo-on-dark.png": {
+      "width": 631,
+      "height": 431,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/47c6b97b073f9066.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/f96e99c4529f6b9e.webp",
+          "width": 631
+        }
+      ]
+    }
+  },
+  "lazyImages": [
+    "/images/project-types/distribution-center-roofing-commercial-roofers-worcester-ma.webp",
+    "/images/roof-systems/tpo-60-mil-commercial-roofers-worcester-ma.webp",
+    "/images/project-types/warehouse-roofing-commercial-roofers-worcester-ma.webp",
+    "/images/project-types/medical-office-building-roofing-commercial-roofers-worcester-ma.webp",
+    "/images/industries/manufacturing-operators-commercial-roofers-worcester-ma.webp"
+  ],
+  "lazyBackgrounds": [],
+  "heroImage": "/images/service-areas/commercial-roofers-worcester-ma-01.webp"
+}
