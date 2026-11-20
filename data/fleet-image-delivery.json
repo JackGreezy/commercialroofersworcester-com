@@ -73,7 +73,7 @@
         }
       ]
     },
-    "/images/project-types/medical-office-building-roofing-commercial-roofers-worcester-ma.webp": {
+    "/images/project-types/medical-office-building-roofing-commercial-roofers-worcester-ma-v2.webp": {
       "width": 2000,
       "height": 1113,
       "variants": [
@@ -91,7 +91,7 @@
         }
       ]
     },
-    "/images/industries/manufacturing-operators-commercial-roofers-worcester-ma.webp": {
+    "/images/industries/manufacturing-operators-commercial-roofers-worcester-ma-v2.webp": {
       "width": 1400,
       "height": 788,
       "variants": [
@@ -128,8 +128,8 @@
     "/images/project-types/distribution-center-roofing-commercial-roofers-worcester-ma.webp",
     "/images/roof-systems/tpo-60-mil-commercial-roofers-worcester-ma.webp",
     "/images/project-types/warehouse-roofing-commercial-roofers-worcester-ma.webp",
-    "/images/project-types/medical-office-building-roofing-commercial-roofers-worcester-ma.webp",
-    "/images/industries/manufacturing-operators-commercial-roofers-worcester-ma.webp"
+    "/images/project-types/medical-office-building-roofing-commercial-roofers-worcester-ma-v2.webp",
+    "/images/industries/manufacturing-operators-commercial-roofers-worcester-ma-v2.webp"
   ],
   "lazyBackgrounds": [],
   "heroImage": "/images/service-areas/commercial-roofers-worcester-ma-01.webp"
