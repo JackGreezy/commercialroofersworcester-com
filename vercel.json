@@ -493,5 +493,16 @@
     "matcher": [
       "/((?!.*\\.(?:css|js|mjs|png|jpe?g|webp|gif|svg|ico|woff2?|ttf|eot|mp4|mov|pdf|xml|txt)$).*)"
     ]
-  }
+  },
+  "headers": [
+    {
+      "source": "/performance/roofing-v1/:path*",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    }
+  ]
 }

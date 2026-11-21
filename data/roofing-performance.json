@@ -1,0 +1,227 @@
+{
+  "revision": "roofing-speed-v1",
+  "domain": "commercialroofersworcester.com",
+  "images": {
+    "/images/brand/logo-on-dark.png": "/performance/roofing-v1/90144b79757d86129d9b1f17.webp",
+    "/images/brand/logo-on-light.png": "/performance/roofing-v1/8e1cf8a3b824ecf508ab8f16.webp",
+    "/images/brand/logo.png": "/performance/roofing-v1/6509a4f84b9893f9a74aa885.webp",
+    "/images/industries/manufacturing-operators-commercial-roofers-worcester-ma-v2.webp": "/performance/roofing-v1/9259686b68b208272291a05b.webp",
+    "/images/project-types/medical-office-building-roofing-commercial-roofers-worcester-ma-v2.webp": "/performance/roofing-v1/d45bdee7cc766f79cdbbf7f7.webp",
+    "/ours/industries/general-contractors-commercial-roofers-worcester-ma-v2.webp": "/performance/roofing-v1/d5cb2504707dd731cc700f0c.webp",
+    "/ours/industries/manufacturing-operators-commercial-roofers-worcester-ma-v2.webp": "/performance/roofing-v1/9259686b68b208272291a05b.webp",
+    "/ours/industries/property-management-firms-commercial-roofers-worcester-ma-v2.webp": "/performance/roofing-v1/93b9a689376a93211b4dc1cf.webp",
+    "/ours/industries/retail-chain-operators-commercial-roofers-worcester-ma-v2.webp": "/performance/roofing-v1/8fbfa5bd252506d8e698b2e0.webp",
+    "/ours/manufacturers/carlisle-syntec-commercial-roofers-worcester-ma-v2.webp": "/performance/roofing-v1/21936092922c037c2b100bfc.webp",
+    "/ours/manufacturers/gaf-commercial-commercial-roofers-worcester-ma-v2.webp": "/performance/roofing-v1/9a7d8a2c348cfe7c09d68123.webp",
+    "/ours/manufacturers/holcim-elevate-commercial-roofers-worcester-ma-v2.webp": "/performance/roofing-v1/4cb3802f01d969dc1ecadb5e.webp",
+    "/ours/manufacturers/johns-manville-commercial-roofers-worcester-ma-v2.webp": "/performance/roofing-v1/40c6a37f0d92a53e4025e4ad.webp",
+    "/ours/manufacturers/versico-commercial-roofers-worcester-ma.webp": "/performance/roofing-v1/22eda79c10cc2cb8ebbf5246.webp",
+    "/ours/project-types/higher-education-roofing-commercial-roofers-worcester-ma-v2.webp": "/performance/roofing-v1/77fe8e39bf94617da642927c.webp",
+    "/ours/project-types/k12-school-roofing-commercial-roofers-worcester-ma-v2.webp": "/performance/roofing-v1/3a43a708add8bdd3d5c4ea51.webp",
+    "/ours/project-types/medical-office-building-roofing-commercial-roofers-worcester-ma-v2.webp": "/performance/roofing-v1/d45bdee7cc766f79cdbbf7f7.webp",
+    "/ours/project-types/mixed-use-development-roofing-commercial-roofers-worcester-ma-v2.webp": "/performance/roofing-v1/86785dd9d7c76fc05bf6a32f.webp",
+    "/ours/project-types/multi-tenant-retail-strip-roofing-commercial-roofers-worcester-ma-v2.webp": "/performance/roofing-v1/9d9d69a25694c528d432e5b8.webp",
+    "/ours/project-types/multifamily-apartment-roofing-commercial-roofers-worcester-ma-v2.webp": "/performance/roofing-v1/3b437b355e9e6caae521c331.webp",
+    "/ours/project-types/senior-living-facility-roofing-commercial-roofers-worcester-ma-v2.webp": "/performance/roofing-v1/9795859b1c0b05778cb7797b.webp",
+    "/ours/services/built-up-roofing-commercial-roofers-worcester-ma-v2.webp": "/performance/roofing-v1/0f8f98588a7ab11fddcefd8b.webp",
+    "/ours/services/commercial-roof-tear-off-replacement-commercial-roofers-worcester-ma-v2.webp": "/performance/roofing-v1/81500635863da7d81c1ebd70.webp",
+    "/ours/services/storm-damage-roof-repair-commercial-roofers-worcester-ma-v2.webp": "/performance/roofing-v1/e13dce4c40ed33b7952027b0.webp"
+  },
+  "assets": [
+    {
+      "from": "/images/brand/logo-on-dark.png",
+      "to": "/performance/roofing-v1/90144b79757d86129d9b1f17.webp",
+      "width": 631,
+      "height": 431,
+      "beforeBytes": 174851,
+      "afterBytes": 125664
+    },
+    {
+      "from": "/images/brand/logo-on-light.png",
+      "to": "/performance/roofing-v1/8e1cf8a3b824ecf508ab8f16.webp",
+      "width": 631,
+      "height": 431,
+      "beforeBytes": 159407,
+      "afterBytes": 121214
+    },
+    {
+      "from": "/images/brand/logo.png",
+      "to": "/performance/roofing-v1/6509a4f84b9893f9a74aa885.webp",
+      "width": 605,
+      "height": 405,
+      "beforeBytes": 175133,
+      "afterBytes": 139486
+    },
+    {
+      "from": "/images/industries/manufacturing-operators-commercial-roofers-worcester-ma-v2.webp",
+      "to": "/performance/roofing-v1/9259686b68b208272291a05b.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 245860,
+      "afterBytes": 181494
+    },
+    {
+      "from": "/images/project-types/medical-office-building-roofing-commercial-roofers-worcester-ma-v2.webp",
+      "to": "/performance/roofing-v1/d45bdee7cc766f79cdbbf7f7.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 203438,
+      "afterBytes": 142652
+    },
+    {
+      "from": "/ours/industries/general-contractors-commercial-roofers-worcester-ma-v2.webp",
+      "to": "/performance/roofing-v1/d5cb2504707dd731cc700f0c.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 246038,
+      "afterBytes": 171628
+    },
+    {
+      "from": "/ours/industries/manufacturing-operators-commercial-roofers-worcester-ma-v2.webp",
+      "to": "/performance/roofing-v1/9259686b68b208272291a05b.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 245860,
+      "afterBytes": 181494
+    },
+    {
+      "from": "/ours/industries/property-management-firms-commercial-roofers-worcester-ma-v2.webp",
+      "to": "/performance/roofing-v1/93b9a689376a93211b4dc1cf.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 383950,
+      "afterBytes": 302170
+    },
+    {
+      "from": "/ours/industries/retail-chain-operators-commercial-roofers-worcester-ma-v2.webp",
+      "to": "/performance/roofing-v1/8fbfa5bd252506d8e698b2e0.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 211930,
+      "afterBytes": 153646
+    },
+    {
+      "from": "/ours/manufacturers/carlisle-syntec-commercial-roofers-worcester-ma-v2.webp",
+      "to": "/performance/roofing-v1/21936092922c037c2b100bfc.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 253786,
+      "afterBytes": 175402
+    },
+    {
+      "from": "/ours/manufacturers/gaf-commercial-commercial-roofers-worcester-ma-v2.webp",
+      "to": "/performance/roofing-v1/9a7d8a2c348cfe7c09d68123.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 357792,
+      "afterBytes": 273198
+    },
+    {
+      "from": "/ours/manufacturers/holcim-elevate-commercial-roofers-worcester-ma-v2.webp",
+      "to": "/performance/roofing-v1/4cb3802f01d969dc1ecadb5e.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 310830,
+      "afterBytes": 220348
+    },
+    {
+      "from": "/ours/manufacturers/johns-manville-commercial-roofers-worcester-ma-v2.webp",
+      "to": "/performance/roofing-v1/40c6a37f0d92a53e4025e4ad.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 201742,
+      "afterBytes": 149874
+    },
+    {
+      "from": "/ours/manufacturers/versico-commercial-roofers-worcester-ma.webp",
+      "to": "/performance/roofing-v1/22eda79c10cc2cb8ebbf5246.webp",
+      "width": 1600,
+      "height": 1049,
+      "beforeBytes": 213070,
+      "afterBytes": 170182
+    },
+    {
+      "from": "/ours/project-types/higher-education-roofing-commercial-roofers-worcester-ma-v2.webp",
+      "to": "/performance/roofing-v1/77fe8e39bf94617da642927c.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 215162,
+      "afterBytes": 141244
+    },
+    {
+      "from": "/ours/project-types/k12-school-roofing-commercial-roofers-worcester-ma-v2.webp",
+      "to": "/performance/roofing-v1/3a43a708add8bdd3d5c4ea51.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 192976,
+      "afterBytes": 139304
+    },
+    {
+      "from": "/ours/project-types/medical-office-building-roofing-commercial-roofers-worcester-ma-v2.webp",
+      "to": "/performance/roofing-v1/d45bdee7cc766f79cdbbf7f7.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 203438,
+      "afterBytes": 142652
+    },
+    {
+      "from": "/ours/project-types/mixed-use-development-roofing-commercial-roofers-worcester-ma-v2.webp",
+      "to": "/performance/roofing-v1/86785dd9d7c76fc05bf6a32f.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 266156,
+      "afterBytes": 184856
+    },
+    {
+      "from": "/ours/project-types/multi-tenant-retail-strip-roofing-commercial-roofers-worcester-ma-v2.webp",
+      "to": "/performance/roofing-v1/9d9d69a25694c528d432e5b8.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 397474,
+      "afterBytes": 315204
+    },
+    {
+      "from": "/ours/project-types/multifamily-apartment-roofing-commercial-roofers-worcester-ma-v2.webp",
+      "to": "/performance/roofing-v1/3b437b355e9e6caae521c331.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 302528,
+      "afterBytes": 222804
+    },
+    {
+      "from": "/ours/project-types/senior-living-facility-roofing-commercial-roofers-worcester-ma-v2.webp",
+      "to": "/performance/roofing-v1/9795859b1c0b05778cb7797b.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 213978,
+      "afterBytes": 157676
+    },
+    {
+      "from": "/ours/services/built-up-roofing-commercial-roofers-worcester-ma-v2.webp",
+      "to": "/performance/roofing-v1/0f8f98588a7ab11fddcefd8b.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 359398,
+      "afterBytes": 273520
+    },
+    {
+      "from": "/ours/services/commercial-roof-tear-off-replacement-commercial-roofers-worcester-ma-v2.webp",
+      "to": "/performance/roofing-v1/81500635863da7d81c1ebd70.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 309388,
+      "afterBytes": 214222
+    },
+    {
+      "from": "/ours/services/storm-damage-roof-repair-commercial-roofers-worcester-ma-v2.webp",
+      "to": "/performance/roofing-v1/e13dce4c40ed33b7952027b0.webp",
+      "width": 1536,
+      "height": 1024,
+      "beforeBytes": 187336,
+      "afterBytes": 135114
+    }
+  ],
+  "createdAt": "2026-11-21T02:36:35.284Z",
+  "fonts": [],
+  "fontFailures": []
+}
